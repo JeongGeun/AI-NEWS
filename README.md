@@ -35,6 +35,12 @@ GitHub Actions cron (00:00 UTC = 09:00 KST)
 | MIT Technology Review | 뉴스 | 5개 |
 | The Verge AI | 뉴스 | 5개 |
 | The Gradient | 연구 | 3개 |
+| GeekNews | 커뮤니티 | 10개 (키워드 필터) |
+| Hacker News | 커뮤니티 | 8개 (AI 키워드 필터, 10점 이상) |
+| Reddit r/MachineLearning | 커뮤니티 | 5개 (키워드 필터) |
+| Reddit r/LocalLLaMA | 커뮤니티 | 5개 |
+| Import AI (Substack) | 뉴스레터 | 3개 |
+| The Batch (deeplearning.ai) | 뉴스레터 | 3개 |
 
 arXiv는 제목/abstract에 아래 키워드 중 하나 이상 포함된 논문만 수집합니다:
 `LLM`, `large language model`, `agent`, `reasoning`, `multimodal`, `RLHF`, `fine-tuning`, `RAG`, `diffusion model`, `vision-language`, `transformer`, `foundation model`, `instruction tuning`, `alignment`

@@ -15,6 +15,14 @@ ARXIV_KEYWORDS = {
     "instruction tuning", "alignment"
 }
 
+# GeekNews·Reddit 등 커뮤니티 소스용 AI 키워드 필터
+COMMUNITY_KEYWORDS = {
+    "ai", "llm", "gpt", "claude", "gemini", "llama", "mistral",
+    "openai", "anthropic", "deepmind", "hugging face", "huggingface",
+    "machine learning", "deep learning", "neural", "diffusion",
+    "agent", "chatbot", "언어 모델", "인공지능", "머신러닝", "딥러닝",
+}
+
 RSS_SOURCES = [
     # arXiv
     {
@@ -96,6 +104,52 @@ RSS_SOURCES = [
         "max_items": 3,
         "arxiv_filter": False,
     },
+    # Community & Curation
+    {
+        "url": "https://news.hada.io/rss",
+        "category": "community",
+        "source": "GeekNews",
+        "max_items": 10,
+        "arxiv_filter": False,
+        "keyword_filter": True,
+    },
+    {
+        "url": "https://hnrss.org/newest?q=LLM+AI+machine+learning+GPT&points=10",
+        "category": "community",
+        "source": "Hacker News",
+        "max_items": 8,
+        "arxiv_filter": False,
+    },
+    {
+        "url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "category": "community",
+        "source": "Reddit r/MachineLearning",
+        "max_items": 5,
+        "arxiv_filter": False,
+        "keyword_filter": True,
+    },
+    {
+        "url": "https://www.reddit.com/r/LocalLLaMA/.rss",
+        "category": "community",
+        "source": "Reddit r/LocalLLaMA",
+        "max_items": 5,
+        "arxiv_filter": False,
+    },
+    # Newsletters (Substack)
+    {
+        "url": "https://importai.substack.com/feed",
+        "category": "newsletter",
+        "source": "Import AI",
+        "max_items": 3,
+        "arxiv_filter": False,
+    },
+    {
+        "url": "https://www.deeplearning.ai/the-batch/rss.xml",
+        "category": "newsletter",
+        "source": "The Batch (deeplearning.ai)",
+        "max_items": 3,
+        "arxiv_filter": False,
+    },
 ]
 
 LOOKBACK_HOURS = 48
@@ -104,6 +158,11 @@ LOOKBACK_HOURS = 48
 def _matches_arxiv_filter(title: str, summary: str) -> bool:
     text = (title + " " + summary).lower()
     return any(kw in text for kw in ARXIV_KEYWORDS)
+
+
+def _matches_community_filter(title: str, summary: str) -> bool:
+    text = (title + " " + summary).lower()
+    return any(kw in text for kw in COMMUNITY_KEYWORDS)
 
 
 def _parse_published(entry) -> Optional[datetime]:
@@ -146,6 +205,10 @@ def fetch_all() -> list[dict]:
 
                 # arXiv 키워드 필터
                 if source_cfg["arxiv_filter"] and not _matches_arxiv_filter(title, summary):
+                    continue
+
+                # 커뮤니티 소스 키워드 필터 (GeekNews, Reddit 등)
+                if source_cfg.get("keyword_filter") and not _matches_community_filter(title, summary):
                     continue
 
                 # 48시간 lookback 필터
