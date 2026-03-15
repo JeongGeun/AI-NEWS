@@ -12,7 +12,7 @@
 
 ```
 GitHub Actions cron (00:00 UTC = 09:00 KST)
-  → RSS 수집 (11개 소스)
+  → RSS 수집 (16개 소스)
   → 중복 제거 (URL SHA-256 해시)
   → 본문 전문 추출 (newspaper3k)
   → 한국어 요약 (Claude Haiku · Batch API)
@@ -39,11 +39,19 @@ GitHub Actions cron (00:00 UTC = 09:00 KST)
 | Hacker News | 커뮤니티 | 8개 (AI 키워드 필터, 10점 이상) |
 | Reddit r/MachineLearning | 커뮤니티 | 5개 (키워드 필터) |
 | Reddit r/LocalLLaMA | 커뮤니티 | 5개 |
+| GitHub Blog (AI) | 개발자 | 5개 |
+| Stack Overflow Blog | 개발자 | 5개 (키워드 필터) |
+| Simon Willison's Blog | 개발자 | 5개 |
+| LangChain Blog | 개발자 | 5개 |
+| Dev.to | 개발자 | 5개 (키워드 필터) |
 | Import AI (Substack) | 뉴스레터 | 3개 |
 | The Batch (deeplearning.ai) | 뉴스레터 | 3개 |
 
 arXiv는 제목/abstract에 아래 키워드 중 하나 이상 포함된 논문만 수집합니다:
 `LLM`, `large language model`, `agent`, `reasoning`, `multimodal`, `RLHF`, `fine-tuning`, `RAG`, `diffusion model`, `vision-language`, `transformer`, `foundation model`, `instruction tuning`, `alignment`
+
+개발자 카테고리 중 Stack Overflow Blog, Dev.to는 아래 키워드 중 하나 이상 포함된 글만 수집합니다:
+`copilot`, `cursor`, `devin`, `code generation`, `coding assistant`, `ai coding`, `ide`, `vscode`, `llm api`, `langchain`, `llamaindex`, `vector database`, `embeddings`, `rag pipeline`, `mlops`, `llmops`, `ai engineering`, `prompt engineering`, `inference`, `model deployment`, `github copilot`, `developer tools`, `sdk`, 외 다수
 
 ---
 
@@ -135,7 +143,7 @@ GitHub repo → **Settings → Secrets and variables → Actions** → New repos
 |------|------|
 | 모델 | `claude-haiku-4-5` |
 | 방식 | Message Batches API (50% 할인) |
-| 예상 비용 | ~30개 기사/일 기준 **약 $0.006/일 ($2.19/년)** |
+| 예상 비용 | ~50개 기사/일 기준 **약 $0.01/일 ($3.65/년)** |
 
 ---
 
