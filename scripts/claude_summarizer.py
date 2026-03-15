@@ -22,12 +22,18 @@ Title: {title}
 Source: {source}
 Content: {content}
 
+Category guide:
+- "research" — academic papers, preprints, scientific findings
+- "industry" — company announcements, product launches, business news
+- "news" — general AI news, policy, societal impact
+- "developer" — AI development tools, LLM APIs, SDKs, MLOps, LLMOps, AI engineering, prompt engineering, coding assistants (Copilot, Cursor, etc.)
+
 Respond with this exact JSON structure:
 {{
   "korean_title": "한국어 제목 (원제 의역, 50자 이내)",
   "korean_summary": "한국어 요약 (핵심 내용 3-4문장, 200자 이내)",
   "english_summary": "English summary (2-3 sentences, key findings only)",
-  "category": "research | industry | news",
+  "category": "research | industry | news | developer",
   "tags": ["tag1", "tag2", "tag3"],
   "significance": "high | medium | low",
   "key_entities": ["entity1", "entity2"]

@@ -23,6 +23,20 @@ COMMUNITY_KEYWORDS = {
     "agent", "chatbot", "언어 모델", "인공지능", "머신러닝", "딥러닝",
 }
 
+# 개발자 도구 및 AI 엔지니어링 소스용 키워드 필터
+DEVELOPER_KEYWORDS = {
+    # AI 개발 도구
+    "copilot", "cursor", "devin", "cline", "windsurf", "code generation",
+    "coding assistant", "ai coding", "ide", "vscode", "vs code",
+    # AI 엔지니어링
+    "llm api", "langchain", "llamaindex", "llama index", "vector database",
+    "vector db", "embeddings", "rag pipeline", "mlops", "llmops",
+    "ai engineering", "prompt engineering", "fine-tuning api", "inference",
+    "model deployment", "ai infrastructure", "ai platform",
+    # 개발자 도구 일반
+    "github copilot", "github models", "developer tools", "sdk", "open source model",
+}
+
 RSS_SOURCES = [
     # arXiv
     {
@@ -135,6 +149,44 @@ RSS_SOURCES = [
         "max_items": 5,
         "arxiv_filter": False,
     },
+    # Developer tools & AI engineering
+    {
+        "url": "https://github.blog/category/ai/feed/",
+        "category": "developer",
+        "source": "GitHub Blog (AI)",
+        "max_items": 5,
+        "arxiv_filter": False,
+    },
+    {
+        "url": "https://stackoverflow.blog/feed/",
+        "category": "developer",
+        "source": "Stack Overflow Blog",
+        "max_items": 5,
+        "arxiv_filter": False,
+        "developer_filter": True,
+    },
+    {
+        "url": "https://simonwillison.net/atom/everything/",
+        "category": "developer",
+        "source": "Simon Willison's Blog",
+        "max_items": 5,
+        "arxiv_filter": False,
+    },
+    {
+        "url": "https://blog.langchain.dev/rss/",
+        "category": "developer",
+        "source": "LangChain Blog",
+        "max_items": 5,
+        "arxiv_filter": False,
+    },
+    {
+        "url": "https://dev.to/feed/",
+        "category": "developer",
+        "source": "Dev.to",
+        "max_items": 5,
+        "arxiv_filter": False,
+        "developer_filter": True,
+    },
     # Newsletters (Substack)
     {
         "url": "https://importai.substack.com/feed",
@@ -163,6 +215,11 @@ def _matches_arxiv_filter(title: str, summary: str) -> bool:
 def _matches_community_filter(title: str, summary: str) -> bool:
     text = (title + " " + summary).lower()
     return any(kw in text for kw in COMMUNITY_KEYWORDS)
+
+
+def _matches_developer_filter(title: str, summary: str) -> bool:
+    text = (title + " " + summary).lower()
+    return any(kw in text for kw in DEVELOPER_KEYWORDS)
 
 
 def _parse_published(entry) -> Optional[datetime]:
@@ -209,6 +266,10 @@ def fetch_all() -> list[dict]:
 
                 # 커뮤니티 소스 키워드 필터 (GeekNews, Reddit 등)
                 if source_cfg.get("keyword_filter") and not _matches_community_filter(title, summary):
+                    continue
+
+                # 개발자 소스 키워드 필터 (Stack Overflow, Dev.to 등)
+                if source_cfg.get("developer_filter") and not _matches_developer_filter(title, summary):
                     continue
 
                 # 48시간 lookback 필터

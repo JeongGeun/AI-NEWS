@@ -13,6 +13,7 @@ CATEGORY_LABELS = {
     "research": "연구 (Research)",
     "industry": "산업 동향 (Industry)",
     "news": "뉴스 (News)",
+    "developer": "개발자 (Developer)",
     "community": "커뮤니티 (Community)",
     "newsletter": "뉴스레터 (Newsletter)",
 }
@@ -76,7 +77,7 @@ def generate_post(articles: list[dict], date: Optional[datetime] = None) -> Path
 
     # 카테고리별 분류
     by_category: dict[str, list[dict]] = {
-        "research": [], "industry": [], "news": [], "community": [], "newsletter": []
+        "research": [], "industry": [], "news": [], "developer": [], "community": [], "newsletter": []
     }
     for article in articles:
         cat = article.get("category", "news")
@@ -103,7 +104,7 @@ def generate_post(articles: list[dict], date: Optional[datetime] = None) -> Path
     ]
 
     # 카테고리 섹션
-    for cat_key in ["research", "industry", "news", "community", "newsletter"]:
+    for cat_key in ["research", "industry", "news", "developer", "community", "newsletter"]:
         cat_articles = by_category[cat_key]
         if not cat_articles:
             continue
