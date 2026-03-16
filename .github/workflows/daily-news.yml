@@ -2,7 +2,7 @@ name: Daily AI News Collection & Publish
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 00:00 UTC = 09:00 KST
+    - cron: "9 21 * * *"  # 21:09 UTC = 06:09 KST
   workflow_dispatch:       # 수동 실행
 
 jobs:
