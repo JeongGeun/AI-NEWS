@@ -2,7 +2,7 @@
 layout: post
 title: "2026-03-19 AI 뉴스 데일리 브리핑"
 date: 2026-03-19 09:00:00 +0900
-categories: [daily-news]
+categories: [ai]
 tags:
   - 3D model generation
   - 8-bit vs 16-bit

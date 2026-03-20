@@ -2,7 +2,7 @@
 layout: post
 title: "2026-03-17 AI 뉴스 데일리 브리핑"
 date: 2026-03-17 09:00:00 +0900
-categories: [daily-news]
+categories: [ai]
 tags:
   - AI agents
   - AI alignment
