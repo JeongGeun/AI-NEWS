@@ -1,0 +1,264 @@
+topics:
+  - slug: "ai"
+    name: "AI 뉴스"
+    name_en: "AI News"
+    tab_order: 1
+    tab_icon: "fas fa-robot"
+    jekyll_category: "ai"
+    llm_description: >
+      Artificial intelligence, machine learning, LLMs, neural networks, AI research papers,
+      AI model releases (GPT, Claude, Gemini, Llama, etc.), AI products, AI policy,
+      AI tooling (LangChain, RAG, vector databases, embeddings, MLOps, LLMOps),
+      AI coding assistants (Copilot, Cursor, Devin), and AI infrastructure.
+    sub_category_labels:
+      research: "연구 (Research)"
+      industry: "산업 동향 (Industry)"
+      news: "뉴스 (News)"
+      developer: "개발자 (Developer)"
+      community: "커뮤니티 (Community)"
+      newsletter: "뉴스레터 (Newsletter)"
+    rss_sources:
+      # arXiv
+      - url: "https://rss.arxiv.org/rss/cs.AI"
+        source: "arXiv cs.AI"
+        sub_category: "research"
+        max_items: 10
+        keyword_filter: "arxiv"
+      - url: "https://rss.arxiv.org/rss/cs.LG"
+        source: "arXiv cs.LG"
+        sub_category: "research"
+        max_items: 10
+        keyword_filter: "arxiv"
+      - url: "https://rss.arxiv.org/rss/cs.CL"
+        source: "arXiv cs.CL"
+        sub_category: "research"
+        max_items: 10
+        keyword_filter: "arxiv"
+      # Industry blogs
+      - url: "https://huggingface.co/blog/feed.xml"
+        source: "HuggingFace Blog"
+        sub_category: "industry"
+        max_items: 5
+      - url: "https://deepmind.google/blog/feed/basic/"
+        source: "Google DeepMind Blog"
+        sub_category: "industry"
+        max_items: 5
+      - url: "https://blog.google/technology/ai/rss/"
+        source: "Google AI Blog"
+        sub_category: "industry"
+        max_items: 5
+      # News
+      - url: "https://venturebeat.com/category/ai/feed/"
+        source: "VentureBeat AI"
+        sub_category: "news"
+        max_items: 8
+      - url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+        source: "TechCrunch AI"
+        sub_category: "news"
+        max_items: 8
+      - url: "https://www.technologyreview.com/feed/"
+        source: "MIT Technology Review"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml"
+        source: "The Verge AI"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://thegradient.pub/rss/"
+        source: "The Gradient"
+        sub_category: "research"
+        max_items: 3
+      # Community & Curation
+      - url: "https://news.hada.io/rss"
+        source: "GeekNews"
+        sub_category: "community"
+        max_items: 10
+        keyword_filter: "community"
+      - url: "https://hnrss.org/newest?q=LLM+AI+machine+learning+GPT&points=10"
+        source: "Hacker News"
+        sub_category: "community"
+        max_items: 8
+      - url: "https://www.reddit.com/r/MachineLearning/.rss"
+        source: "Reddit r/MachineLearning"
+        sub_category: "community"
+        max_items: 5
+        keyword_filter: "community"
+      - url: "https://www.reddit.com/r/LocalLLaMA/.rss"
+        source: "Reddit r/LocalLLaMA"
+        sub_category: "community"
+        max_items: 5
+      # Developer tools & AI engineering
+      - url: "https://github.blog/category/ai/feed/"
+        source: "GitHub Blog (AI)"
+        sub_category: "developer"
+        max_items: 5
+      - url: "https://stackoverflow.blog/feed/"
+        source: "Stack Overflow Blog"
+        sub_category: "developer"
+        max_items: 5
+        keyword_filter: "developer"
+      - url: "https://simonwillison.net/atom/everything/"
+        source: "Simon Willison's Blog"
+        sub_category: "developer"
+        max_items: 5
+      - url: "https://blog.langchain.dev/rss/"
+        source: "LangChain Blog"
+        sub_category: "developer"
+        max_items: 5
+      - url: "https://dev.to/feed/"
+        source: "Dev.to"
+        sub_category: "developer"
+        max_items: 5
+        keyword_filter: "developer"
+      # Newsletters
+      - url: "https://importai.substack.com/feed"
+        source: "Import AI"
+        sub_category: "newsletter"
+        max_items: 3
+      - url: "https://www.deeplearning.ai/the-batch/rss.xml"
+        source: "The Batch (deeplearning.ai)"
+        sub_category: "newsletter"
+        max_items: 3
+
+  - slug: "frontend"
+    name: "프론트엔드"
+    name_en: "Frontend"
+    tab_order: 2
+    tab_icon: "fas fa-laptop-code"
+    jekyll_category: "frontend"
+    llm_description: >
+      Frontend web development: JavaScript, TypeScript, React, Vue, Angular, Svelte,
+      CSS, HTML, Web APIs, browser features, web performance, Core Web Vitals,
+      UI/UX engineering, accessibility (a11y), frontend build tools (Vite, Webpack, esbuild),
+      and frontend frameworks or libraries.
+    sub_category_labels:
+      tutorial: "튜토리얼 & 아티클"
+      news: "뉴스 & 릴리즈"
+      community: "커뮤니티"
+    rss_sources:
+      - url: "https://css-tricks.com/feed/"
+        source: "CSS-Tricks"
+        sub_category: "tutorial"
+        max_items: 5
+      - url: "https://www.smashingmagazine.com/feed/"
+        source: "Smashing Magazine"
+        sub_category: "tutorial"
+        max_items: 5
+      - url: "https://web.dev/feed.xml"
+        source: "web.dev"
+        sub_category: "tutorial"
+        max_items: 5
+      - url: "https://reactjs.org/feed.xml"
+        source: "React Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://vuejs.org/feed.xml"
+        source: "Vue.js Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://blog.angular.io/feed"
+        source: "Angular Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://dev.to/feed/tag/javascript"
+        source: "Dev.to JavaScript"
+        sub_category: "community"
+        max_items: 8
+      - url: "https://dev.to/feed/tag/webdev"
+        source: "Dev.to WebDev"
+        sub_category: "community"
+        max_items: 8
+
+  - slug: "backend"
+    name: "백엔드"
+    name_en: "Backend"
+    tab_order: 3
+    tab_icon: "fas fa-server"
+    jekyll_category: "backend"
+    llm_description: >
+      Backend engineering: REST/GraphQL APIs, microservices, databases (SQL, NoSQL),
+      server-side frameworks, Go, Rust, Python, Java, Node.js, system design,
+      distributed systems, caching, message queues, backend performance,
+      and server architecture patterns.
+    sub_category_labels:
+      tutorial: "튜토리얼 & 아티클"
+      news: "뉴스 & 릴리즈"
+      community: "커뮤니티"
+    rss_sources:
+      - url: "https://go.dev/blog/feed.atom"
+        source: "Go Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://blog.rust-lang.org/feed.xml"
+        source: "Rust Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://spring.io/blog.atom"
+        source: "Spring Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://martinfowler.com/feed.atom"
+        source: "Martin Fowler"
+        sub_category: "tutorial"
+        max_items: 5
+      - url: "https://www.infoq.com/feed/"
+        source: "InfoQ"
+        sub_category: "tutorial"
+        max_items: 5
+      - url: "https://dev.to/feed/tag/backend"
+        source: "Dev.to Backend"
+        sub_category: "community"
+        max_items: 8
+      - url: "https://dev.to/feed/tag/api"
+        source: "Dev.to API"
+        sub_category: "community"
+        max_items: 8
+
+  - slug: "devops"
+    name: "DevOps/인프라"
+    name_en: "DevOps/Infra"
+    tab_order: 4
+    tab_icon: "fas fa-cogs"
+    jekyll_category: "devops"
+    llm_description: >
+      DevOps, cloud infrastructure, Kubernetes, Docker, container orchestration,
+      CI/CD pipelines, monitoring and observability, SRE (Site Reliability Engineering),
+      platform engineering, Infrastructure as Code (Terraform, Pulumi, Ansible),
+      cloud providers (AWS, GCP, Azure), serverless, and GitOps.
+    sub_category_labels:
+      tutorial: "튜토리얼 & 아티클"
+      news: "뉴스 & 릴리즈"
+      community: "커뮤니티"
+    rss_sources:
+      - url: "https://kubernetes.io/feed.xml"
+        source: "Kubernetes Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://www.docker.com/blog/feed/"
+        source: "Docker Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://grafana.com/blog/index.xml"
+        source: "Grafana Blog"
+        sub_category: "tutorial"
+        max_items: 5
+      - url: "https://www.hashicorp.com/blog/feed.xml"
+        source: "HashiCorp Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://aws.amazon.com/blogs/devops/feed/"
+        source: "AWS DevOps Blog"
+        sub_category: "tutorial"
+        max_items: 5
+      - url: "https://about.gitlab.com/atom.xml"
+        source: "GitLab Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://github.blog/feed/"
+        source: "GitHub Blog"
+        sub_category: "news"
+        max_items: 5
+      - url: "https://dev.to/feed/tag/devops"
+        source: "Dev.to DevOps"
+        sub_category: "community"
+        max_items: 8

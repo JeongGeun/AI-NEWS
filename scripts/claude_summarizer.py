@@ -1,4 +1,4 @@
-"""Claude Haiku Batch API로 기사 한국어 요약"""
+"""Claude Haiku Batch API로 기사 한국어 요약 + 토픽 관련성 분류"""
 
 import anthropic
 import json
@@ -12,46 +12,62 @@ MODEL = "claude-haiku-4-5"
 BATCH_POLL_INTERVAL = 60  # seconds
 BATCH_TIMEOUT = 25 * 60   # 25분
 
-SYSTEM_PROMPT = """You are an AI news analyst specializing in Korean tech media.
-Summarize each article concisely and accurately.
+SYSTEM_PROMPT = """You are a tech news analyst specializing in Korean tech media.
+Summarize each article concisely and accurately, and classify its topic relevance.
 Always respond with valid JSON only — no markdown fences, no extra text."""
 
-USER_PROMPT_TEMPLATE = """Summarize this AI/tech article in both Korean and English.
+USER_PROMPT_TEMPLATE = """Summarize this tech article in both Korean and English, then classify its topic relevance.
 
 Title: {title}
 Source: {source}
 Content: {content}
 
-Category guide:
+Sub-category guide (for this article's primary subject):
 - "research" — academic papers, preprints, scientific findings
 - "industry" — company announcements, product launches, business news
-- "news" — general AI news, policy, societal impact
-- "developer" — AI development tools, LLM APIs, SDKs, MLOps, LLMOps, AI engineering, prompt engineering, coding assistants (Copilot, Cursor, etc.)
+- "news" — general tech news, policy, societal impact
+- "developer" — development tools, APIs, SDKs, engineering practices
+- "tutorial" — how-to guides, tutorials, technical articles
+- "community" — community discussions, opinions, curated links
+
+Topic relevance — list ALL matching topic slugs (can be multiple or empty):
+{topic_definitions}
 
 Respond with this exact JSON structure:
 {{
   "korean_title": "한국어 제목 (원제 의역, 50자 이내)",
   "korean_summary": "한국어 요약 (핵심 내용 3-4문장, 200자 이내)",
   "english_summary": "English summary (2-3 sentences, key findings only)",
-  "category": "research | industry | news | developer",
+  "category": "research | industry | news | developer | tutorial | community",
   "tags": ["tag1", "tag2", "tag3"],
   "significance": "high | medium | low",
-  "key_entities": ["entity1", "entity2"]
+  "key_entities": ["entity1", "entity2"],
+  "topic_labels": ["slug1", "slug2"]
 }}"""
 
 
-def _build_request(article: dict, custom_id: str) -> dict:
+def _build_topic_definitions(topic_definitions: list[dict]) -> str:
+    """토픽 정의 문자열 생성 (프롬프트 삽입용)"""
+    lines = []
+    for t in topic_definitions:
+        desc = t.get("llm_description", "").strip().replace("\n", " ")
+        lines.append(f'- "{t["slug"]}": {desc}')
+    return "\n".join(lines)
+
+
+def _build_request(article: dict, custom_id: str, topic_definitions: list[dict]) -> dict:
     content = article.get("full_text") or article.get("summary", "")
     prompt = USER_PROMPT_TEMPLATE.format(
         title=article.get("title", ""),
         source=article.get("source", ""),
         content=content[:1500],
+        topic_definitions=_build_topic_definitions(topic_definitions),
     )
     return {
         "custom_id": custom_id,
         "params": {
             "model": MODEL,
-            "max_tokens": 600,
+            "max_tokens": 700,
             "system": SYSTEM_PROMPT,
             "messages": [{"role": "user", "content": prompt}],
         },
@@ -62,7 +78,6 @@ def _parse_response(text: str) -> Optional[dict]:
     try:
         return json.loads(text)
     except json.JSONDecodeError:
-        # JSON 블록 추출 시도
         import re
         match = re.search(r"\{[\s\S]+\}", text)
         if match:
@@ -73,13 +88,25 @@ def _parse_response(text: str) -> Optional[dict]:
     return None
 
 
-def summarize_articles(articles: list[dict], client: anthropic.Anthropic) -> list[dict]:
-    """Batch API로 전체 기사 요약, 결과를 article dict에 병합하여 반환"""
+def summarize_articles(
+    articles: list[dict],
+    client: anthropic.Anthropic,
+    topic_definitions: list[dict],
+) -> list[dict]:
+    """Batch API로 전체 기사 요약 + 토픽 분류, 결과를 article dict에 병합하여 반환.
+
+    Args:
+        articles: 기사 dict 목록
+        client: Anthropic 클라이언트
+        topic_definitions: topics.yml의 topics 리스트 (LLM 분류 기준)
+    """
     if not articles:
         return []
 
-    # Batch 요청 생성
-    requests = [_build_request(a, f"article_{i}") for i, a in enumerate(articles)]
+    requests = [
+        _build_request(a, f"article_{i}", topic_definitions)
+        for i, a in enumerate(articles)
+    ]
 
     logger.info(f"Creating batch with {len(requests)} requests...")
     batch = client.messages.batches.create(requests=requests)

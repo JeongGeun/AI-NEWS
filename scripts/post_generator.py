@@ -1,4 +1,4 @@
-"""Jekyll 마크다운 포스트 생성 모듈"""
+"""Jekyll 마크다운 포스트 생성 모듈 — 토픽별 독립 포스트"""
 
 import logging
 from datetime import datetime, timezone, timedelta
@@ -9,19 +9,20 @@ logger = logging.getLogger(__name__)
 
 POSTS_DIR = Path(__file__).parent.parent / "_posts"
 
-CATEGORY_LABELS = {
-    "research": "연구 (Research)",
-    "industry": "산업 동향 (Industry)",
-    "news": "뉴스 (News)",
-    "developer": "개발자 (Developer)",
-    "community": "커뮤니티 (Community)",
-    "newsletter": "뉴스레터 (Newsletter)",
-}
-
 SIGNIFICANCE_LABELS = {
     "high": "높음",
     "medium": "보통",
     "low": "낮음",
+}
+
+DEFAULT_SUB_CATEGORY_LABELS = {
+    "research": "연구 (Research)",
+    "industry": "산업 동향 (Industry)",
+    "news": "뉴스 (News)",
+    "developer": "개발자 (Developer)",
+    "tutorial": "튜토리얼 & 아티클",
+    "community": "커뮤니티 (Community)",
+    "newsletter": "뉴스레터 (Newsletter)",
 }
 
 
@@ -31,7 +32,7 @@ def _collect_tags(articles: list[dict]) -> list[str]:
         for tag in a.get("tags", []):
             if tag:
                 tags.add(tag)
-    return sorted(tags)[:20]  # 최대 20개
+    return sorted(tags)[:20]
 
 
 def _article_block(article: dict, idx: int) -> str:
@@ -64,37 +65,56 @@ def _article_block(article: dict, idx: int) -> str:
     return "\n".join(lines)
 
 
-def generate_post(articles: list[dict], date: Optional[datetime] = None) -> Path:
-    """기사 목록으로 Jekyll 마크다운 포스트 생성, 파일 경로 반환"""
+def generate_post(
+    articles: list[dict],
+    topic: dict,
+    date: Optional[datetime] = None,
+) -> Path:
+    """토픽별 Jekyll 마크다운 포스트 생성, 파일 경로 반환.
+
+    Args:
+        articles: 기사 dict 목록 (요약 결과 포함)
+        topic: topics.yml의 토픽 dict
+        date: 포스트 날짜 (None이면 현재 KST)
+    """
     if date is None:
         date = datetime.now(timezone(timedelta(hours=9)))  # KST
 
+    slug = topic["slug"]
     date_str = date.strftime("%Y-%m-%d")
-    filename = f"{date_str}-ai-news-daily.md"
+    filename = f"{date_str}-{slug}-daily.md"
     output_path = POSTS_DIR / filename
 
     POSTS_DIR.mkdir(parents=True, exist_ok=True)
 
-    # 카테고리별 분류
-    by_category: dict[str, list[dict]] = {
-        "research": [], "industry": [], "news": [], "developer": [], "community": [], "newsletter": []
+    # sub_category별 분류 (topics.yml의 sub_category_labels 기준)
+    sub_cat_labels: dict[str, str] = {
+        **DEFAULT_SUB_CATEGORY_LABELS,
+        **topic.get("sub_category_labels", {}),
     }
+    known_cats = list(sub_cat_labels.keys())
+
+    by_sub_category: dict[str, list[dict]] = {cat: [] for cat in known_cats}
+    by_sub_category["_other"] = []
+
     for article in articles:
-        cat = article.get("category", "news")
-        if cat not in by_category:
-            cat = "news"
-        by_category[cat].append(article)
+        sub_cat = article.get("sub_category", "news")
+        if sub_cat in by_sub_category:
+            by_sub_category[sub_cat].append(article)
+        else:
+            by_sub_category["_other"].append(article)
 
     all_tags = _collect_tags(articles)
     tags_yaml = "\n  - ".join([""] + all_tags) if all_tags else ""
 
-    # Front matter
+    jekyll_category = topic.get("jekyll_category", slug)
+
     lines = [
         "---",
         "layout: post",
-        f'title: "{date_str} AI 뉴스 데일리 브리핑"',
+        f'title: "{date_str} {topic["name"]} 데일리 브리핑"',
         f"date: {date.strftime('%Y-%m-%d')} 00:07:00 +0900",
-        "categories: [daily-news]",
+        f"categories: [{jekyll_category}]",
         f"tags:{tags_yaml}",
         "---",
         "",
@@ -103,15 +123,23 @@ def generate_post(articles: list[dict], date: Optional[datetime] = None) -> Path
         "",
     ]
 
-    # 카테고리 섹션
-    for cat_key in ["research", "industry", "news", "developer", "community", "newsletter"]:
-        cat_articles = by_category[cat_key]
+    # sub_category 섹션 순서대로 렌더링
+    for cat_key in known_cats:
+        cat_articles = by_sub_category.get(cat_key, [])
         if not cat_articles:
             continue
-        label = CATEGORY_LABELS[cat_key]
+        label = sub_cat_labels.get(cat_key, cat_key)
         lines.append(f"## {label}")
         lines.append("")
         for idx, article in enumerate(cat_articles, 1):
+            lines.append(_article_block(article, idx))
+
+    # 분류 안 된 기사들
+    other_articles = by_sub_category.get("_other", [])
+    if other_articles:
+        lines.append("## 기타")
+        lines.append("")
+        for idx, article in enumerate(other_articles, 1):
             lines.append(_article_block(article, idx))
 
     content = "\n".join(lines)
