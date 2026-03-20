@@ -1,0 +1,35 @@
+{% assign worker_url = site.llm_search_worker_url %}
+{% if worker_url and worker_url != "" %}
+  <!-- LLM 검색 모드 (Cloudflare Worker) -->
+  <script>
+    const LLM_SEARCH_WORKER_URL = '{{ worker_url }}';
+  </script>
+  <script src="{{ '/assets/js/llm-search.js' | relative_url }}"></script>
+{% else %}
+  <!-- 기본 키워드 검색 모드 (SimpleJekyllSearch) -->
+  <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('search-results'),
+      json: '{{ '/assets/js/data/search.json' | relative_url }}',
+      searchResultTemplate: '<a href="{url}" class="search-result-title fw-bold">{title}</a>',
+      noResultsText: '<p class="no-results d-flex flex-column align-items-center w-100">검색 결과 없음</p>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'categories') {
+          if (value === '') {
+            return value;
+          } else {
+            return (
+              '{% raw %}<a href="' +
+              '{{ "/categories/" | relative_url }}' +
+              value.replace(' ', '-').toLowerCase() +
+              '/{% endraw %}">' +
+              value +
+              '</a>'
+            );
+          }
+        }
+      }
+    });
+  </script>
+{% endif %}

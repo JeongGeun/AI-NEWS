@@ -1,4 +1,4 @@
-name: Daily AI News Collection & Publish
+name: Daily Tech News Collection & Publish
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 jobs:
   collect-and-publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 90  # 4개 토픽 × 배치 처리 시간
 
     permissions:
       contents: write
@@ -33,15 +33,14 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/collect.py
 
-      - name: Commit new post and seen_articles.json
+      - name: Commit new posts and dedup data
         run: |
-          git config user.name "AI News Bot"
+          git config user.name "Tech News Bot"
           git config user.email "actions@github.com"
-          git add _posts/ data/seen_articles.json
+          git add _posts/ data/
           if git diff --cached --quiet; then
             echo "Nothing to commit"
           else
-            git commit -m "chore: daily AI news $(date -u +%Y-%m-%d)"
+            git commit -m "chore: daily tech news $(date -u +%Y-%m-%d)"
             git push
           fi
-

@@ -3,11 +3,14 @@ theme: jekyll-theme-chirpy
 lang: ko
 timezone: Asia/Seoul
 
-title: AI 뉴스 데일리
-tagline: 매일 아침 AI 뉴스를 한국어로
+title: 테크 뉴스 데일리
+tagline: AI, 프론트엔드, 백엔드, DevOps 뉴스를 매일 한국어로
 description: >-
-  arXiv 논문, HuggingFace 블로그, VentureBeat, TechCrunch 등에서
-  수집한 AI 뉴스를 Claude AI가 한국어로 요약합니다.
+  AI, 프론트엔드, 백엔드, DevOps/인프라 분야의 기술 뉴스를
+  Claude AI가 매일 자동 수집하여 한국어로 요약합니다.
+
+# LLM 검색 기능 (Vercel Function)
+llm_search_worker_url: "https://vercel-one-opal.vercel.app/api/search"
 
 url: "https://jeonggeunjo.github.io"
 baseurl: "/AI-NEWS"
@@ -90,6 +93,8 @@ exclude:
   - package*.json
   - scripts/
   - data/
+  - config/
+  - vercel/
   - requirements.txt
 
 plugins:
