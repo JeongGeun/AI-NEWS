@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "AI 뉴스"
+title: "AI"
 category: ai
 icon: fas fa-robot
 order: 1

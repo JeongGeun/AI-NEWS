@@ -7,13 +7,9 @@ layout: page
 {% assign category_posts = site.posts | where_exp: "p", "p.categories contains page.category" %}
 
 <div id="page-category">
-  <h1 class="ps-lg-2">
-    <i class="far fa-folder-open fa-fw text-muted"></i>
-    {{ page.title }}
-    <span class="lead text-muted ps-2">{{ category_posts | size }}</span>
-  </h1>
+  <span class="lead text-muted">{{ category_posts | size }}개 브리핑</span>
 
-  <ul class="content ps-0">
+  <ul class="content ps-0 mt-3">
     {% for post in category_posts %}
       <li class="d-flex justify-content-between px-md-3">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
