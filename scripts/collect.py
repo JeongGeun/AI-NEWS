@@ -5,6 +5,9 @@ import os
 import sys
 
 import anthropic
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # 스크립트 디렉토리 기준 임포트
 sys.path.insert(0, os.path.dirname(__file__))

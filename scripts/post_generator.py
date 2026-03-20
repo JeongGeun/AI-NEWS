@@ -93,7 +93,7 @@ def generate_post(articles: list[dict], date: Optional[datetime] = None) -> Path
         "---",
         "layout: post",
         f'title: "{date_str} AI 뉴스 데일리 브리핑"',
-        f"date: {date.strftime('%Y-%m-%d')} 09:00:00 +0900",
+        f"date: {date.strftime('%Y-%m-%d')} 00:07:00 +0900",
         "categories: [daily-news]",
         f"tags:{tags_yaml}",
         "---",
