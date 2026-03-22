@@ -36,6 +36,31 @@ _DEVELOPER_KEYWORDS = {
     "github copilot", "github models", "developer tools", "sdk", "open source model",
 }
 
+# 스킨케어 키워드 필터 (beauty 토픽, 영어/한국어/일본어)
+_SKINCARE_KEYWORDS = {
+    # English — product types
+    "skincare", "skin care", "skin-care", "moisturizer", "moisturiser",
+    "serum", "toner", "essence", "cleanser", "exfoliant", "exfoliator",
+    "sunscreen", "spf", "retinol", "vitamin c", "niacinamide", "hyaluronic acid",
+    "peptide", "aha", "bha", "pha", "ceramide", "collagen", "antioxidant",
+    # English — concerns & outcomes
+    "anti-aging", "anti-wrinkle", "anti aging", "hydration", "moisturizing",
+    "acne", "pore", "brightening", "dark spot", "hyperpigmentation",
+    "sensitive skin", "oily skin", "dry skin", "skin barrier",
+    # English — brand / category context
+    "k-beauty skincare", "korean skincare", "sheet mask", "face mask",
+    "eye cream", "face cream", "face oil", "mist", "sleeping mask",
+    # 한국어
+    "스킨케어", "피부", "세럼", "토너", "에센스", "클렌저",
+    "선크림", "자외선차단", "레티놀", "나이아신아마이드", "히알루론산",
+    "수분크림", "보습", "미백", "주름", "트러블", "모공", "피부장벽",
+    "시트마스크", "마스크팩",
+    # 日本語
+    "スキンケア", "化粧水", "美容液", "乳液", "クレンジング",
+    "日焼け止め", "保湿", "美白", "シートマスク", "レチノール",
+    "ヒアルロン酸", "ナイアシンアミド", "セラミド", "毛穴",
+}
+
 _FILTER_FUNCS = {
     "arxiv": lambda title, summary: any(
         kw in (title + " " + summary).lower() for kw in _ARXIV_KEYWORDS
@@ -45,6 +70,9 @@ _FILTER_FUNCS = {
     ),
     "developer": lambda title, summary: any(
         kw in (title + " " + summary).lower() for kw in _DEVELOPER_KEYWORDS
+    ),
+    "skincare": lambda title, summary: any(
+        kw in (title + " " + summary).lower() for kw in _SKINCARE_KEYWORDS
     ),
 }
 

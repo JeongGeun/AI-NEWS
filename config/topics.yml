@@ -270,12 +270,14 @@ topics:
     tab_icon: "fas fa-spa"
     jekyll_category: "beauty"
     llm_description: >
-      K-beauty and Korean cosmetics brands (Amorepacific, LG H&H, COSRX, Laneige, etc.),
-      global beauty industry news (WWD, Allure), beauty market trends, consumer behavior,
-      skincare and makeup product launches, K-beauty in global markets (especially US and Japan),
-      beauty tech, cosmetic formulation, and beauty brand business news.
+      Skincare products and routines: moisturizers, serums, toners, cleansers, sunscreens,
+      active ingredients (retinol, vitamin C, niacinamide, hyaluronic acid, AHA/BHA, ceramide, peptides),
+      skin concerns (acne, anti-aging, hyperpigmentation, sensitive skin, skin barrier),
+      K-beauty skincare brands and products (COSRX, Laneige, Innisfree, Sulwhasoo, etc.),
+      Korean skincare trends and innovations, sheet masks, skincare market/industry news,
+      dermatology-backed skincare, and skincare product launches and reviews.
     sub_category_labels:
-      kbeauty: "K-뷰티"
+      kbeauty: "K-뷰티 스킨케어"
       industry: "산업 동향"
       trends: "트렌드"
       news: "뉴스"
@@ -285,56 +287,62 @@ topics:
         source: "BeautyMatter"
         sub_category: "industry"
         max_items: 8
+        keyword_filter: "skincare"
       - url: "https://wwd.com/feed/"
         source: "WWD"
         sub_category: "industry"
         max_items: 8
-        keyword_filter: "beauty"
+        keyword_filter: "skincare"
       - url: "https://cosmeticsbusiness.com/rss"
         source: "Cosmetics Business"
         sub_category: "industry"
         max_items: 5
+        keyword_filter: "skincare"
       - url: "https://www.beautyindependent.com/feed/"
         source: "Beauty Independent"
         sub_category: "industry"
         max_items: 5
+        keyword_filter: "skincare"
       # English K-beauty & trends
       - url: "https://theklog.co/feed/"
         source: "The Klog (K-beauty)"
         sub_category: "kbeauty"
         max_items: 8
-      - url: "https://news.google.com/rss/search?q=K-beauty+kbeauty&hl=en-US&gl=US&ceid=US:en"
-        source: "Google News K-beauty"
+        keyword_filter: "skincare"
+      - url: "https://news.google.com/rss/search?q=korean+skincare+kbeauty+skin+care&hl=en-US&gl=US&ceid=US:en"
+        source: "Google News K-beauty Skincare"
         sub_category: "kbeauty"
-        max_items: 8
-      - url: "https://news.google.com/rss/search?q=site:allure.com&hl=en-US&gl=US&ceid=US:en"
-        source: "Allure"
+        max_items: 10
+      - url: "https://news.google.com/rss/search?q=site:allure.com+skincare&hl=en-US&gl=US&ceid=US:en"
+        source: "Allure Skincare"
         sub_category: "trends"
         max_items: 5
-      - url: "https://news.google.com/rss/search?q=site:byrdie.com&hl=en-US&gl=US&ceid=US:en"
-        source: "Byrdie"
+      - url: "https://news.google.com/rss/search?q=site:byrdie.com+skincare&hl=en-US&gl=US&ceid=US:en"
+        source: "Byrdie Skincare"
         sub_category: "trends"
         max_items: 5
       # Korean sources
-      - url: "https://news.google.com/rss/search?q=site:cosinkorea.com&hl=ko&gl=KR&ceid=KR:ko"
-        source: "코스인코리아"
+      - url: "https://news.google.com/rss/search?q=site:cosinkorea.com+%EC%8A%A4%ED%82%A8%EC%BC%80%EC%96%B4+%ED%94%BC%EB%B6%80&hl=ko&gl=KR&ceid=KR:ko"
+        source: "코스인코리아 스킨케어"
         sub_category: "kbeauty"
         max_items: 8
       - url: "https://www.beautynury.com/rss"
         source: "뷰티경제"
         sub_category: "kbeauty"
         max_items: 8
+        keyword_filter: "skincare"
       # Japanese sources
       - url: "https://www.wwdjapan.com/feed"
         source: "WWD Japan"
         sub_category: "industry"
         max_items: 5
-        keyword_filter: "beauty"
-      - url: "https://news.google.com/rss/search?q=site:wwdjapan.com+%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP:ja"
-        source: "WWD Japan Beauty"
+        keyword_filter: "skincare"
+      - url: "https://news.google.com/rss/search?q=site:wwdjapan.com+%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2&hl=ja&gl=JP&ceid=JP:ja"
+        source: "WWD Japan スキンケア"
         sub_category: "industry"
         max_items: 5
       - url: "https://www.biteki.com/feed"
         source: "美的 (BITEKI)"
         sub_category: "trends"
         max_items: 5
+        keyword_filter: "skincare"
