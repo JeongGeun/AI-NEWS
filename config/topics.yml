@@ -282,67 +282,50 @@ topics:
       trends: "트렌드"
       news: "뉴스"
     rss_sources:
-      # Global beauty industry
-      - url: "https://beautymatter.com/feed/"
-        source: "BeautyMatter"
-        sub_category: "industry"
-        max_items: 8
-        keyword_filter: "skincare"
-      - url: "https://wwd.com/feed/"
-        source: "WWD"
-        sub_category: "industry"
-        max_items: 8
-        keyword_filter: "skincare"
-      - url: "https://cosmeticsbusiness.com/rss"
-        source: "Cosmetics Business"
-        sub_category: "industry"
-        max_items: 5
-        keyword_filter: "skincare"
-      - url: "https://www.beautyindependent.com/feed/"
-        source: "Beauty Independent"
-        sub_category: "industry"
-        max_items: 5
-        keyword_filter: "skincare"
-      # English K-beauty & trends
-      - url: "https://theklog.co/feed/"
-        source: "The Klog (K-beauty)"
-        sub_category: "kbeauty"
-        max_items: 8
-        keyword_filter: "skincare"
-      - url: "https://news.google.com/rss/search?q=korean+skincare+kbeauty+skin+care&hl=en-US&gl=US&ceid=US:en"
-        source: "Google News K-beauty Skincare"
-        sub_category: "kbeauty"
+      # ── 한국어 소스 (우선순위) ──────────────────────────────────
+      # Google 뉴스 한국 — 스킨케어
+      - url: "https://news.google.com/rss/search?q=%EC%8A%A4%ED%82%A8%EC%BC%80%EC%96%B4&hl=ko&gl=KR&ceid=KR:ko"
+        source: "Google 뉴스 (스킨케어)"
+        sub_category: "trends"
         max_items: 10
+      # Google 뉴스 한국 — 화장품 성분
+      - url: "https://news.google.com/rss/search?q=%ED%99%94%EC%9E%A5%ED%92%88+%EC%84%B1%EB%B6%84&hl=ko&gl=KR&ceid=KR:ko"
+        source: "Google 뉴스 (화장품 성분)"
+        sub_category: "trends"
+        max_items: 8
+      # Google 뉴스 한국 — 피부 보습/미백
+      - url: "https://news.google.com/rss/search?q=%ED%94%BC%EB%B6%80+%EB%B3%B4%EC%8A%B5&hl=ko&gl=KR&ceid=KR:ko"
+        source: "Google 뉴스 (피부 보습)"
+        sub_category: "trends"
+        max_items: 8
+      # Google 뉴스 한국 — K뷰티 산업
+      - url: "https://news.google.com/rss/search?q=K%EB%B7%B0%ED%8B%B0+%ED%99%94%EC%9E%A5%ED%92%88&hl=ko&gl=KR&ceid=KR:ko"
+        source: "Google 뉴스 (K뷰티)"
+        sub_category: "kbeauty"
+        max_items: 8
+      # 코스인코리아 — 화장품 산업 전문지 (skincare 필터 없이, 사이트 자체가 뷰티 전문)
+      - url: "https://news.google.com/rss/search?q=site:cosinkorea.com&hl=ko&gl=KR&ceid=KR:ko"
+        source: "코스인코리아"
+        sub_category: "industry"
+        max_items: 10
+        keyword_filter: "skincare"
+      # 뷰티경제 (뷰티누리) — SSL 핸드셰이크 문제로 Google News 프록시 사용
+      - url: "https://news.google.com/rss/search?q=site:beautynury.com&hl=ko&gl=KR&ceid=KR:ko"
+        source: "뷰티경제"
+        sub_category: "industry"
+        max_items: 8
+        keyword_filter: "skincare"
+      # ── 영어 소스 (K-뷰티 해외 시각, 보조) ───────────────────
+      - url: "https://news.google.com/rss/search?q=korean+skincare+kbeauty&hl=en-US&gl=US&ceid=US:en"
+        source: "Google News (K-beauty Skincare)"
+        sub_category: "kbeauty"
+        max_items: 5
       - url: "https://news.google.com/rss/search?q=site:allure.com+skincare&hl=en-US&gl=US&ceid=US:en"
         source: "Allure Skincare"
         sub_category: "trends"
-        max_items: 5
-      - url: "https://news.google.com/rss/search?q=site:byrdie.com+skincare&hl=en-US&gl=US&ceid=US:en"
-        source: "Byrdie Skincare"
-        sub_category: "trends"
-        max_items: 5
-      # Korean sources
-      - url: "https://news.google.com/rss/search?q=site:cosinkorea.com+%EC%8A%A4%ED%82%A8%EC%BC%80%EC%96%B4+%ED%94%BC%EB%B6%80&hl=ko&gl=KR&ceid=KR:ko"
-        source: "코스인코리아 스킨케어"
-        sub_category: "kbeauty"
-        max_items: 8
-      - url: "https://www.beautynury.com/rss"
-        source: "뷰티경제"
-        sub_category: "kbeauty"
-        max_items: 8
-        keyword_filter: "skincare"
-      # Japanese sources
-      - url: "https://www.wwdjapan.com/feed"
-        source: "WWD Japan"
+        max_items: 3
+      - url: "https://cosmeticsbusiness.com/rss"
+        source: "Cosmetics Business"
         sub_category: "industry"
-        max_items: 5
-        keyword_filter: "skincare"
-      - url: "https://news.google.com/rss/search?q=site:wwdjapan.com+%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2&hl=ja&gl=JP&ceid=JP:ja"
-        source: "WWD Japan スキンケア"
-        sub_category: "industry"
-        max_items: 5
-      - url: "https://www.biteki.com/feed"
-        source: "美的 (BITEKI)"
-        sub_category: "trends"
-        max_items: 5
+        max_items: 3
         keyword_filter: "skincare"
