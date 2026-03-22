@@ -262,3 +262,79 @@ topics:
         source: "Dev.to DevOps"
         sub_category: "community"
         max_items: 8
+
+  - slug: "beauty"
+    name: "뷰티"
+    name_en: "Beauty"
+    tab_order: 5
+    tab_icon: "fas fa-spa"
+    jekyll_category: "beauty"
+    llm_description: >
+      K-beauty and Korean cosmetics brands (Amorepacific, LG H&H, COSRX, Laneige, etc.),
+      global beauty industry news (WWD, Allure), beauty market trends, consumer behavior,
+      skincare and makeup product launches, K-beauty in global markets (especially US and Japan),
+      beauty tech, cosmetic formulation, and beauty brand business news.
+    sub_category_labels:
+      kbeauty: "K-뷰티"
+      industry: "산업 동향"
+      trends: "트렌드"
+      news: "뉴스"
+    rss_sources:
+      # Global beauty industry
+      - url: "https://beautymatter.com/feed/"
+        source: "BeautyMatter"
+        sub_category: "industry"
+        max_items: 8
+      - url: "https://wwd.com/feed/"
+        source: "WWD"
+        sub_category: "industry"
+        max_items: 8
+        keyword_filter: "beauty"
+      - url: "https://cosmeticsbusiness.com/rss"
+        source: "Cosmetics Business"
+        sub_category: "industry"
+        max_items: 5
+      - url: "https://www.beautyindependent.com/feed/"
+        source: "Beauty Independent"
+        sub_category: "industry"
+        max_items: 5
+      # English K-beauty & trends
+      - url: "https://theklog.co/feed/"
+        source: "The Klog (K-beauty)"
+        sub_category: "kbeauty"
+        max_items: 8
+      - url: "https://news.google.com/rss/search?q=K-beauty+kbeauty&hl=en-US&gl=US&ceid=US:en"
+        source: "Google News K-beauty"
+        sub_category: "kbeauty"
+        max_items: 8
+      - url: "https://news.google.com/rss/search?q=site:allure.com&hl=en-US&gl=US&ceid=US:en"
+        source: "Allure"
+        sub_category: "trends"
+        max_items: 5
+      - url: "https://news.google.com/rss/search?q=site:byrdie.com&hl=en-US&gl=US&ceid=US:en"
+        source: "Byrdie"
+        sub_category: "trends"
+        max_items: 5
+      # Korean sources
+      - url: "https://news.google.com/rss/search?q=site:cosinkorea.com&hl=ko&gl=KR&ceid=KR:ko"
+        source: "코스인코리아"
+        sub_category: "kbeauty"
+        max_items: 8
+      - url: "https://www.beautynury.com/rss"
+        source: "뷰티경제"
+        sub_category: "kbeauty"
+        max_items: 8
+      # Japanese sources
+      - url: "https://www.wwdjapan.com/feed"
+        source: "WWD Japan"
+        sub_category: "industry"
+        max_items: 5
+        keyword_filter: "beauty"
+      - url: "https://news.google.com/rss/search?q=site:wwdjapan.com+%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3&hl=ja&gl=JP&ceid=JP:ja"
+        source: "WWD Japan Beauty"
+        sub_category: "industry"
+        max_items: 5
+      - url: "https://www.biteki.com/feed"
+        source: "美的 (BITEKI)"
+        sub_category: "trends"
+        max_items: 5

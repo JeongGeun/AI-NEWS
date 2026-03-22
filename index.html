@@ -109,6 +109,33 @@ title: "테크 뉴스 데일리"
     </a>
   </div>
 
+
+  {% assign beauty_posts = site.posts | where_exp: "p", "p.categories contains 'beauty'" %}
+  {% assign beauty_latest = beauty_posts | first %}
+  <div class="col">
+    <a href="{{ '/beauty/' | relative_url }}" class="text-decoration-none">
+      <div class="card h-100 border-0 shadow-sm topic-card">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3">
+            <span class="topic-icon me-3"><i class="fas fa-spa fa-2x text-beauty"></i></span>
+            <h4 class="card-title mb-0">뷰티</h4>
+          </div>
+          <p class="card-text text-muted">K-뷰티, 글로벌 뷰티 산업, 한국 화장품 브랜드, 트렌드 & 소비자 동향</p>
+          {% if beauty_latest %}
+          <small class="text-muted">
+            <i class="far fa-calendar-alt me-1"></i>최근 업데이트: {{ beauty_latest.date | date: "%Y-%m-%d" }}
+          </small>
+          {% else %}
+          <small class="text-muted"><i class="far fa-calendar-alt me-1"></i>매일 업데이트</small>
+          {% endif %}
+        </div>
+        <div class="card-footer bg-transparent border-0 pb-3 px-4">
+          <span class="btn btn-sm btn-outline-beauty">브리핑 보기 →</span>
+        </div>
+      </div>
+    </a>
+  </div>
+
 </div>
 
 <style>
@@ -122,5 +149,16 @@ title: "테크 뉴스 데일리"
 }
 .topic-card .card-title {
   color: var(--heading-color);
+}
+.text-beauty {
+  color: #e83e8c !important;
+}
+.btn-outline-beauty {
+  color: #e83e8c;
+  border-color: #e83e8c;
+}
+.btn-outline-beauty:hover {
+  background-color: #e83e8c;
+  color: #fff;
 }
 </style>
