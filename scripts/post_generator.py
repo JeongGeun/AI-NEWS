@@ -26,6 +26,18 @@ DEFAULT_SUB_CATEGORY_LABELS = {
 }
 
 
+_YAML_SPECIAL_START = set('@`|>&*!,[]{}#%')
+
+
+def _quote_yaml_tag(tag: str) -> str:
+    """YAML에서 문자열로 안전하게 파싱되도록 필요한 경우 따옴표로 감쌈."""
+    tag = str(tag)
+    # 숫자만으로 이루어진 태그 또는 YAML 특수문자로 시작하는 태그는 따옴표 처리
+    if tag.lstrip('-').isdigit() or (tag and tag[0] in _YAML_SPECIAL_START):
+        return f'"{tag}"'
+    return tag
+
+
 def _collect_tags(articles: list[dict]) -> list[str]:
     tags: set[str] = set()
     for a in articles:
@@ -105,7 +117,7 @@ def generate_post(
             by_sub_category["_other"].append(article)
 
     all_tags = _collect_tags(articles)
-    tags_yaml = "\n  - ".join([""] + all_tags) if all_tags else ""
+    tags_yaml = "\n  - ".join([""] + [_quote_yaml_tag(t) for t in all_tags]) if all_tags else ""
 
     jekyll_category = topic.get("jekyll_category", slug)
 

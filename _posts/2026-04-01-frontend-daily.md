@@ -4,7 +4,7 @@ title: "2026-04-01 프론트엔드 데일리 브리핑"
 date: 2026-04-01 00:07:00 +0900
 categories: [frontend]
 tags:
-  - @mixin
+  - "@mixin"
   - AI agents
   - CSS
   - CSV processing

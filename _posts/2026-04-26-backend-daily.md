@@ -4,7 +4,7 @@ title: "2026-04-26 백엔드 데일리 브리핑"
 date: 2026-04-26 00:07:00 +0900
 categories: [backend]
 tags:
-  - 2026
+  - "2026"
   - AI
   - AMD EPYC
   - API

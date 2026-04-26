@@ -4,7 +4,7 @@ title: "2026-04-18 뷰티 데일리 브리핑"
 date: 2026-04-18 00:07:00 +0900
 categories: [beauty]
 tags:
-  - 2025
+  - "2025"
   - AI화장품
   - Centellian24
   - Japan market
