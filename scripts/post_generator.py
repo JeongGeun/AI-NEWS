@@ -100,11 +100,15 @@ def generate_post(
     POSTS_DIR.mkdir(parents=True, exist_ok=True)
 
     # sub_category별 분류 (topics.yml의 sub_category_labels 기준)
-    sub_cat_labels: dict[str, str] = {
-        **DEFAULT_SUB_CATEGORY_LABELS,
-        **topic.get("sub_category_labels", {}),
-    }
-    known_cats = list(sub_cat_labels.keys())
+    topic_labels = topic.get("sub_category_labels", {})
+    sub_cat_labels = {**DEFAULT_SUB_CATEGORY_LABELS, **topic_labels}
+    # topic이 순서를 정의하면 그 순서 우선, 나머지 DEFAULT로 보완
+    if topic_labels:
+        known_cats = list(topic_labels.keys()) + [
+            k for k in DEFAULT_SUB_CATEGORY_LABELS if k not in topic_labels
+        ]
+    else:
+        known_cats = list(sub_cat_labels.keys())
 
     by_sub_category: dict[str, list[dict]] = {cat: [] for cat in known_cats}
     by_sub_category["_other"] = []

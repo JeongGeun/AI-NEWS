@@ -25,8 +25,9 @@ _COMMUNITY_KEYWORDS = {
     "agent", "chatbot", "언어 모델", "인공지능", "머신러닝", "딥러닝",
 }
 
-# 개발자 소스용 AI 엔지니어링 키워드 필터 (Stack Overflow, Dev.to 등)
+# 개발자 소스용 AI 엔지니어링 키워드 필터 (Stack Overflow, Dev.to, GeekNews 등)
 _DEVELOPER_KEYWORDS = {
+    # 영어 — AI 코딩 도구
     "copilot", "cursor", "devin", "cline", "windsurf", "code generation",
     "coding assistant", "ai coding", "vscode", "vs code",
     "llm api", "langchain", "llamaindex", "llama index", "vector database",
@@ -34,6 +35,12 @@ _DEVELOPER_KEYWORDS = {
     "ai engineering", "prompt engineering", "fine-tuning api", "inference",
     "model deployment", "ai infrastructure", "ai platform",
     "github copilot", "github models", "developer tools", "sdk", "open source model",
+    "mcp", "model context protocol", "vibe coding", "agentic", "ai agent",
+    # 한국어 — GeekNews 한국어 기사 필터용
+    "코파일럿", "코딩 어시스턴트", "ai 코딩", "개발 도구", "llm api",
+    "벡터 데이터베이스", "임베딩", "파인튜닝", "모델 배포", "ai 에이전트",
+    "오픈소스 모델", "프롬프트 엔지니어링", "랭체인", "ai 개발",
+    "바이브 코딩", "모델 컨텍스트 프로토콜", "추론", "ai 인프라",
 }
 
 # 스킨케어 키워드 필터 (beauty 토픽, 영어/한국어/일본어)

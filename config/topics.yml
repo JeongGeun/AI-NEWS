@@ -11,10 +11,10 @@ topics:
       AI tooling (LangChain, RAG, vector databases, embeddings, MLOps, LLMOps),
       AI coding assistants (Copilot, Cursor, Devin), and AI infrastructure.
     sub_category_labels:
+      developer: "개발자 (Developer)"
+      news: "뉴스 (News)"
       research: "연구 (Research)"
       industry: "산업 동향 (Industry)"
-      news: "뉴스 (News)"
-      developer: "개발자 (Developer)"
       community: "커뮤니티 (Community)"
       newsletter: "뉴스레터 (Newsletter)"
     rss_sources:
@@ -88,6 +88,15 @@ topics:
         sub_category: "community"
         max_items: 5
       # Developer tools & AI engineering
+      - url: "https://news.hada.io/rss"
+        source: "GeekNews (개발자)"
+        sub_category: "developer"
+        max_items: 8
+        keyword_filter: "developer"
+      - url: "https://hnrss.org/newest?q=AI+coding+developer+tools&points=10"
+        source: "Hacker News (Dev Tools)"
+        sub_category: "developer"
+        max_items: 5
       - url: "https://github.blog/category/ai/feed/"
         source: "GitHub Blog (AI)"
         sub_category: "developer"
