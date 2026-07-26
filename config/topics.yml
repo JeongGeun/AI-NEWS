@@ -47,6 +47,14 @@ topics:
         source: "Google AI Blog"
         sub_category: "industry"
         max_items: 5
+      - url: "https://openai.com/news/rss.xml"
+        source: "OpenAI Blog"
+        sub_category: "industry"
+        max_items: 5
+      - scraper: "anthropic_news"
+        source: "Anthropic Blog"
+        sub_category: "industry"
+        max_items: 5
       # News
       - url: "https://venturebeat.com/category/ai/feed/"
         source: "VentureBeat AI"
@@ -60,7 +68,7 @@ topics:
         source: "MIT Technology Review"
         sub_category: "news"
         max_items: 5
-      - url: "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml"
+      - url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
         source: "The Verge AI"
         sub_category: "news"
         max_items: 5
@@ -69,7 +77,7 @@ topics:
         sub_category: "research"
         max_items: 3
       # Community & Curation
-      - url: "https://news.hada.io/rss"
+      - scraper: "geeknews"
         source: "GeekNews"
         sub_category: "community"
         max_items: 10
@@ -78,17 +86,8 @@ topics:
         source: "Hacker News"
         sub_category: "community"
         max_items: 8
-      - url: "https://www.reddit.com/r/MachineLearning/.rss"
-        source: "Reddit r/MachineLearning"
-        sub_category: "community"
-        max_items: 5
-        keyword_filter: "community"
-      - url: "https://www.reddit.com/r/LocalLLaMA/.rss"
-        source: "Reddit r/LocalLLaMA"
-        sub_category: "community"
-        max_items: 5
       # Developer tools & AI engineering
-      - url: "https://news.hada.io/rss"
+      - scraper: "geeknews"
         source: "GeekNews (개발자)"
         sub_category: "developer"
         max_items: 8
@@ -97,7 +96,7 @@ topics:
         source: "Hacker News (Dev Tools)"
         sub_category: "developer"
         max_items: 5
-      - url: "https://github.blog/category/ai/feed/"
+      - url: "https://github.blog/ai-and-ml/feed/"
         source: "GitHub Blog (AI)"
         sub_category: "developer"
         max_items: 5
@@ -110,7 +109,7 @@ topics:
         source: "Simon Willison's Blog"
         sub_category: "developer"
         max_items: 5
-      - url: "https://blog.langchain.dev/rss/"
+      - scraper: "langchain_blog"
         source: "LangChain Blog"
         sub_category: "developer"
         max_items: 5
@@ -122,10 +121,6 @@ topics:
       # Newsletters
       - url: "https://importai.substack.com/feed"
         source: "Import AI"
-        sub_category: "newsletter"
-        max_items: 3
-      - url: "https://www.deeplearning.ai/the-batch/rss.xml"
-        source: "The Batch (deeplearning.ai)"
         sub_category: "newsletter"
         max_items: 3
 

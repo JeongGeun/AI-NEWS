@@ -5,9 +5,17 @@ import logging
 from datetime import datetime, timezone, timedelta
 from typing import Optional
 
+from html_scraper import SCRAPERS
+
 logger = logging.getLogger(__name__)
 
 LOOKBACK_HOURS = 48
+
+# 일부 사이트(Reddit 등)가 feedparser 기본 User-Agent를 차단하므로 브라우저로 위장
+_BROWSER_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 
 # arXiv 키워드 필터 (AI 관련 논문 선별)
 _ARXIV_KEYWORDS = {
@@ -96,8 +104,45 @@ def _parse_published(entry) -> Optional[datetime]:
     return None
 
 
+def _select_articles(
+    raw_entries: list[tuple], source_cfg: dict, cutoff: datetime, topic_slug: str
+) -> list[dict]:
+    """(title, link, summary, published) 튜플 목록에 키워드/lookback/max_items 필터 적용"""
+    keyword_filter = source_cfg.get("keyword_filter")
+    filter_fn = _FILTER_FUNCS.get(keyword_filter) if keyword_filter else None
+    max_items = source_cfg.get("max_items", 10)
+
+    articles = []
+    for title, link, summary, published in raw_entries:
+        if len(articles) >= max_items:
+            break
+
+        title = (title or "").strip()
+        link = (link or "").strip()
+        if not title or not link:
+            continue
+
+        if filter_fn and not filter_fn(title, summary):
+            continue
+
+        if published and published < cutoff:
+            continue
+
+        articles.append({
+            "title": title,
+            "url": link,
+            "summary": summary[:500] if summary else "",
+            "source": source_cfg["source"],
+            "sub_category": source_cfg.get("sub_category", "news"),
+            "topic": topic_slug,
+            "published": published.isoformat() if published else "",
+        })
+
+    return articles
+
+
 def fetch_topic(topic: dict, lookback_hours: int = LOOKBACK_HOURS) -> list[dict]:
-    """topics.yml의 단일 토픽 설정으로 RSS 기사 수집.
+    """topics.yml의 단일 토픽 설정으로 기사 수집 (RSS 피드 + HTML 직접 파싱).
 
     Args:
         topic: topics.yml의 토픽 dict (slug, rss_sources 등 포함)
@@ -111,53 +156,36 @@ def fetch_topic(topic: dict, lookback_hours: int = LOOKBACK_HOURS) -> list[dict]
     topic_slug = topic["slug"]
 
     for source_cfg in topic.get("rss_sources", []):
-        url = source_cfg["url"]
-        logger.info(f"[{topic_slug}] Fetching RSS: {source_cfg['source']} ({url})")
+        scraper_name = source_cfg.get("scraper")
+        source_name = source_cfg["source"]
+
         try:
-            feed = feedparser.parse(url)
-            if feed.bozo and not feed.entries:
-                logger.warning(f"  Failed to parse {url}: {feed.bozo_exception}")
-                continue
-
-            keyword_filter = source_cfg.get("keyword_filter")
-            filter_fn = _FILTER_FUNCS.get(keyword_filter) if keyword_filter else None
-
-            count = 0
-            for entry in feed.entries:
-                if count >= source_cfg.get("max_items", 10):
-                    break
-
-                title = entry.get("title", "").strip()
-                link = entry.get("link", "").strip()
-                summary = entry.get("summary", "") or entry.get("description", "")
-
-                if not title or not link:
+            if scraper_name:
+                logger.info(f"[{topic_slug}] Scraping HTML: {source_name} ({scraper_name})")
+                raw_entries = SCRAPERS[scraper_name]()
+            else:
+                url = source_cfg["url"]
+                logger.info(f"[{topic_slug}] Fetching RSS: {source_name} ({url})")
+                feed = feedparser.parse(url, agent=_BROWSER_UA)
+                if feed.bozo and not feed.entries:
+                    logger.warning(f"  Failed to parse {url}: {feed.bozo_exception}")
                     continue
+                raw_entries = [
+                    (
+                        entry.get("title", ""),
+                        entry.get("link", ""),
+                        entry.get("summary", "") or entry.get("description", ""),
+                        _parse_published(entry),
+                    )
+                    for entry in feed.entries
+                ]
 
-                # 키워드 사전 필터 (설정된 경우)
-                if filter_fn and not filter_fn(title, summary):
-                    continue
-
-                # 48시간 lookback 필터
-                published = _parse_published(entry)
-                if published and published < cutoff:
-                    continue
-
-                articles.append({
-                    "title": title,
-                    "url": link,
-                    "summary": summary[:500] if summary else "",
-                    "source": source_cfg["source"],
-                    "sub_category": source_cfg.get("sub_category", "news"),
-                    "topic": topic_slug,
-                    "published": published.isoformat() if published else "",
-                })
-                count += 1
-
-            logger.info(f"  Collected {count} articles from {source_cfg['source']}")
+            new_articles = _select_articles(raw_entries, source_cfg, cutoff, topic_slug)
+            articles.extend(new_articles)
+            logger.info(f"  Collected {len(new_articles)} articles from {source_name}")
 
         except Exception as e:
-            logger.error(f"  Error fetching {url}: {e}")
+            logger.error(f"  Error fetching {source_name}: {e}")
             continue
 
     logger.info(f"[{topic_slug}] Total RSS articles collected: {len(articles)}")
