@@ -1,0 +1,341 @@
+---
+layout: post
+title: "2026-08-15 뷰티 데일리 브리핑"
+date: 2026-08-15 00:07:00 +0900
+categories: [beauty]
+tags:
+  - 10-HDA
+  - China market
+  - DDS
+  - DDS 플랫폼
+  - Indian market
+  - K-beauty
+  - K-fashion
+  - K-뷰티
+  - Korea beauty market
+  - Korean beauty brands
+  - Korean beauty industry
+  - Korean brands
+  - Korean cosmetics
+  - ODM
+  - Southeast Asia
+  - UK market
+  - anti-aging
+  - beauty
+  - beauty brand launch
+  - beauty exports
+---
+
+> 수집 시각: 2026-08-14 21:47 UTC | 총 34건
+
+## K-뷰티 스킨케어
+
+### 1. [K뷰티 인기로 제조·브랜드·유통 업계 함께 성장](https://news.google.com/rss/articles/CBMidkFVX3lxTE9YenZObUp1a1hMeHVhekpqZWRhSUFFWTE3dVVNN0VMN3ZRZnp6NEdtYnpIZ2lBRG5lXzV0WUtsaVdMckNHdGF0UEViNUdJdlRJM2ZNMC1RdFYyUExwell4TTEtNVg5cDgwWFpvZXRjdEJVX2haWXfSAWZBVV95cUxQUEJDdmNBWGNqbUxUbDB3b2h1MnVaMVZIRlBxQlBoXzc2NXB3QnVvM0dkam8yRDBoSDhOVm5fMzA3MGxpZUw1eUJjOEt2RHlkOG9RSTlmMFNpQUFTamI4d1p5VlZnVkE?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 보통
+
+**한국어 요약**: K뷰티의 글로벌 인기에 힘입어 한국 화장품 제조업체, 브랜드, 유통업체가 모두 호황을 누리고 있다. 제조 기술력, 혁신적인 브랜드 마케팅, 효율적인 유통망이 함께 작용하면서 한국 뷰티 산업이 고공행진 중이다.
+
+**English Summary**: South Korea's beauty industry is experiencing simultaneous growth across manufacturing, branding, and distribution sectors, fueled by the global popularity of K-beauty. The integrated success of production technology, brand innovation, and distribution networks is driving the industry's robust expansion.
+
+**핵심 키워드**: K뷰티, 한국 화장품 산업, 제조업체, 브랜드, 유통
+
+### 2. [K-뷰티 성장으로 포장재 시장도 함께 성장](https://news.google.com/rss/articles/CBMiZEFVX3lxTE16RkEyVjc0YVpMeHRiU05ZRVR6eTg1TkVvbkhEN3VQY0pyMGVBOER3ZEZqM2lGUHRxY3dvUjg5Njl6WlpLa213M0Q3a2tUMC1tazdyS2hGQXJxdTFMcGpyWDRWTzTSAWpBVV95cUxNQ1NQQ0FhX3VnSkRmWk9fYXpxbTdmNHVVcnc4bm1vank1VDZfc0hEVldrYUdlUHZyN1VMbGVNb3J3d2ZyYmZUd2JBMTJuTXRuVFNZLXByTUY5QWxMYjVDei1uSWNicnlYV3BB?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 보통
+
+**한국어 요약**: K-뷰티 산업의 호조가 단상자(소형 포장상자) 등 포장재 시장까지 긍정적인 영향을 미치고 있다. 특히 백판지 매출이 증가세를 보이고 있으며, K-뷰티 제품의 수출 증가가 포장 산업 전반에 낙수효과를 가져오고 있는 상황이다.
+
+**English Summary**: South Korea's booming K-beauty industry is generating positive spillover effects across the packaging materials sector. As K-beauty exports increase, demand for packaging materials like single-use cardboard boxes and white paperboard is rising, boosting sales in the packaging industry.
+
+**핵심 키워드**: K-뷰티, 백판지, 포장상자, 한국 화장품 산업
+
+### 3. [중국 의존도 낮춘 K뷰티 3대 기업, 해외 실적 회복](https://news.google.com/rss/articles/CBMiakFVX3lxTE9CWmg1cTlzNDUyXzRmRjNBay1NdmJHUkRMZmFvSEMwMzNCVy1abGNfNXRLbGRHVEpFT2xTeFNzZi1yWWx2TkV6YTVTaElaQlpKQTBFdXVQdE5ydXBQYkY3UDBHZjA2TDRtVFHSAW9BVV95cUxQXzVYSkhlZlJ1V1R6SktQRXg4OWhKeWVhU1hHV2pHcXp0MGoxYkVYR0ZZNEI2WmdxQnFnNmNJOGRtU2prM2NOVXp0ekk5MlV5NTZsWHRuNDZYQTh1aUgtejYxTnlOT3h3OWR3UDdyVTg?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 높음
+
+**한국어 요약**: 한국 뷰티 기업들이 중국 시장 의존도를 줄이면서 해외 매출이 반등하고 있다. K뷰티 3대 기업들이 중국 경기 둔화에 대비해 포트폴리오를 다변화하고 있으며, 이러한 전략이 주효하여 해외 지역 실적이 개선되는 추세다.
+
+**English Summary**: Major Korean beauty companies are reducing their dependence on the Chinese market and seeing a rebound in overseas performance. The three leading K-beauty firms are diversifying their geographic portfolio to hedge against China's economic slowdown, resulting in improved international segment results.
+
+**핵심 키워드**: K뷰티 3대장, 중국 시장, 해외 매출, 머니투데이
+
+### 4. [K-뷰티·K-패션, 동남아시아 시장 공략 확대](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UbzI3M2RnRWhTOWVWU2o1UGdQaHZtMy1lLWdzR2VIbGcwX3lTSi00cVR6TXNWNkhKREdqYlh1VTNJN3Z0R2NJMFR6TUpaY3BoaGJzVXJrZV9Hc2VUYWhDWU1ZU0ZKRnlP?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 보통
+
+**한국어 요약**: 한국의 뷰티와 패션 브랜드들이 동북아시아, 미국, 유럽 시장 진출에 이어 동남아시아 시장으로의 진격을 가속화하고 있다. K-뷰티와 K-패션의 글로벌 확장 전략이 새로운 성장 시장인 동남아시아에 집중되고 있으며, 이는 한국 산업의 해외 수출 다각화 추진을 보여준다.
+
+**English Summary**: Korean beauty and fashion brands are expanding their market presence into Southeast Asia, following successful penetration into Northeast Asia, the US, and Europe. This strategic expansion represents a new growth opportunity for Korean industries in emerging markets and diversifies their global export portfolio.
+
+**핵심 키워드**: K-뷰티, K-패션, 동남아시아, 한국 브랜드
+
+### 5. [K-뷰티 수출 2분기 신기록, 인디부터 1세대까지 성장](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jaU9aYy1YbElSbW9Sc0R0c0dla3JzbDk4cEpLYW15NTJ4WmdFTXdja2ZpN0l6Z1JONllkdlpUVnRHWnpiejZvWlBST3p2cXVPTXhPZEdyVkJ2Tl9iVThCM9IBeEFVX3lxTE9WRlM3T21LQWt0NUhwZTlHQmlBUDFfbDBubEJvME5SdFU3VEh0WFdnWUtNanRoWS1FZ0pJdjdYUW92b2g5VFpBaS03ZktJUVRDUTBGOGViLVdqZUx6elkzUGVFeUhEUXNUU3VhV1NsNEp2ZmY1LXM0SA?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 보통
+
+**한국어 요약**: 한국 뷰티 제품의 수출이 2분기에 신기록을 달성했다. 인디 브랜드부터 1세대 K-뷰티 브랜드까지 다양한 업체들이 호실적을 기록하며 한류 뷰티 산업의 전반적인 성장세를 보여주고 있다. 글로벌 시장에서 한국 뷰티 제품에 대한 수요가 지속적으로 증가하고 있는 추세를 반영한 결과다.
+
+**English Summary**: South Korean beauty product exports reached a new record in the second quarter, with both indie brands and first-generation K-beauty brands experiencing strong performance. The growth reflects sustained global demand for Korean beauty products across diverse brand segments and market segments.
+
+**핵심 키워드**: K-beauty industry, Korean beauty brands, indie beauty companies, global beauty market
+
+### 6. [K뷰티 수출 70억달러, ODM·유통 사업까지 확대](https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMUxmZXp4TnpxcHFPWl9tTkRyQXFjbERiZkF1MHd0YnJONmZId1F1YllHT3lZTmh5LS0tVDBVY1ZpMjEyLW92aktFcmt5OTR0bXRrcnBBVnJGWGs2QmNYbkc5eW5Hem0zQ0wyOA?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 높음
+
+**한국어 요약**: 한국 뷰티 산업이 수출 70억달러 규모로 성장하면서 ODM(주문자위탁제조) 및 유통 사업까지 확대하고 있다. K뷰티 기업들이 단순 제품 수출을 넘어 제조와 유통 전 과정에서의 경쟁력을 강화하고 있으며, 글로벌 뷰티 시장에서의 입지를 더욱 공고히 하고 있다.
+
+**English Summary**: South Korea's beauty industry has grown to $7 billion in exports, with K-beauty companies expanding beyond product sales into ODM (Original Design Manufacturing) and distribution sectors. Korean beauty firms are strengthening their competitiveness across the entire manufacturing and distribution value chain in the global beauty market.
+
+**핵심 키워드**: K뷰티, 한국 뷰티 산업, ODM, 유통
+
+### 7. [K-뷰티 10년 성장, 기술 혁신이 만든 글로벌 성공](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LY0otWnJwNllxZ1NXTzZSejI2di0zZ0FqaEZEWWtqYi1QVmN4Slg3ZjFFanBIaWNhTFF0Rm10UkxpTGQxbTQ1UllaRjIwX1ZMQURYSmJkalV2YlFYb2ZVcGFsVQ?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 높음
+
+**한국어 요약**: 코스모닝이 창간 10주년을 기념해 K-뷰티 산업의 성장을 분석하는 특집 기사 5번째 편으로, K-뷰티 혁신을 주도한 핵심 기술들을 조명했다. 한국 화장품·뷰티 업계가 지난 10년간 기술 혁신을 통해 세계 시장을 사로잡았으며, 이러한 성과는 지속적인 R&D와 첨단 제조 기술에 기반하고 있음을 강조한다.
+
+**English Summary**: Cosmoning's 10th anniversary special examines K-beauty's decade-long growth, focusing on the technologies that drove innovation in Korean cosmetics and beauty industry. The article highlights how technological advancement and R&D investment enabled Korean beauty brands to capture global markets.
+
+**핵심 키워드**: Cosmoning, K-beauty, Korean cosmetics industry, beauty technology
+
+### 8. [하딩플러스, 유럽 크루즈선에 한국 뷰티 브랜드 3개 론칭](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2NaLVdJUXJjbWwtUFRtQ0R1RU9DaGUtbUo3M0RjV3FMN2dsajY5aFJkRE5ZUW1XWkhWOXJTSFVwaWRYaFozNHBmWVZjZWVvYk80TE1NMkhVM0dlMmdaTmJROFBFanRHanpicGpNWFJ2TkhnX3c1Tnk2czlXWWtfRUNfUHhIczN3MXZlbGtoOGNZcTVoVTcxS2xFRWI3Y0xqWUw4clU2cDRWcDl0SGF4YXpCNUlDQVFEVlNXTG5PYV9hQQ?oc=5)
+**출처**: Google News (K-beauty Skincare) · **중요도**: 보통
+
+**한국어 요약**: 하딩플러스가 유럽을 운항하는 크루즈선에서 한국 뷰티 브랜드 3개를 판매하기 시작했다. 이는 K-뷰티 제품의 글로벌 확대 전략의 일환으로, 유럽 고객들에게 한국 스킨케어 제품을 소개하는 기회를 제공한다. 크루즈 채널을 통한 프리미엄 뷰티 제품 유통은 국제 시장 진출의 새로운 경로를 보여준다.
+
+**English Summary**: Harding+ has launched three Korean beauty brands on European cruise ships, marking an expansion of K-beauty products into the European market. This distribution strategy leverages cruise ship retail channels to introduce Korean skincare and cosmetics to international customers. The move represents a new distribution pathway for Korean beauty brands in the premium travel retail sector.
+
+**핵심 키워드**: Harding+, Korean beauty brands, European cruise ships, Seatrade Cruise News
+
+### 9. [스킨 큐피드, 영국 전역 로드쇼로 K-뷰티 확산](https://news.google.com/rss/articles/CBMickFVX3lxTE5vQmFQOHN1M2hQdXBldlhxNDJqemU1NDVDSVd2cUdTWVBLVExnamJiSlY2QTZidkNUY3JLUG9yRlBTNktaTG5XWjFPM0FGTGVKcExIY0RvZDdGd0xzQm5MVm1NU2NIX0psMkZHTzBPNF9JZw?oc=5)
+**출처**: Google News (K-beauty Skincare) · **중요도**: 보통
+
+**한국어 요약**: K-뷰티 브랜드 스킨 큐피드(Skin Cupid)가 영국 전역의 지역사회를 대상으로 새로운 로드쇼를 개최하며 한국 화장품을 선보이고 있다. 이는 K-뷰티의 글로벌 확산 전략의 일환으로, 영국 시장에서의 브랜드 인지도 확대를 목표로 하고 있다. 로드쇼를 통해 소비자들이 직접 제품을 경험하고 한국 스킨케어 문화를 접할 수 있는 기회를 제공한다.
+
+**English Summary**: Skin Cupid, a K-beauty brand, is launching a new roadshow across UK communities to introduce Korean skincare products to local consumers. The initiative aims to expand K-beauty's presence in the UK market through direct consumer engagement and brand awareness activities. This represents a broader strategy to globalize K-beauty products and promote Korean skincare culture.
+
+**핵심 키워드**: Skin Cupid, United Kingdom, K-beauty
+
+### 10. [K-뷰티 신흥 강자, 시트마스크를 제치고 치약이 대세](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjZiTmFiT0FuS0c4TWJKV1ZWYkZjam4tUWRGNHBjWi1IU3ZaRWhlZDNGTENQUk90RnRtNUUtNVhxSXpJMDNsQm9YQ1U5YTJmTjlfWDZ5Wm5rMnhremJMdzg1YW5qRTVqN1c3UWg4UnQ1NU0yYVdUZjBQQ1JNbFFFX1diQmJTV1JnRnV5Yw?oc=5)
+**출처**: Google News (K-beauty Skincare) · **중요도**: 보통
+
+**한국어 요약**: 한국 치약이 기존의 시트마스크를 제치고 K-뷰티 시장의 새로운 핫아이템으로 떠오르고 있다. 한국 소비자들 사이에서 구강 미용 제품에 대한 관심이 급증하면서 고기능성 치약의 수요가 증가하고 있는 추세다. 이는 K-뷰티 업계의 트렌드 변화를 보여주는 주목할 만한 현상으로, 기존 스킨케어 중심의 시장 구도가 다양화되고 있음을 시사한다.
+
+**English Summary**: Korean toothpaste has emerged as a new K-beauty bestseller, surpassing sheet masks in market popularity. The shift reflects growing consumer interest in oral beauty products with advanced formulations and functional benefits. This marks a notable trend evolution in the K-beauty market, expanding beyond traditional skincare into oral care categories.
+
+**핵심 키워드**: K-beauty, toothpaste, sheet masks, Korean beauty market
+
+### 11. [K-뷰티 붐으로 한국 상위 3개 화장품 ODM 기업 분기 최고 수익 기록](https://news.google.com/rss/articles/CBMidkFVX3lxTE1iQ2JqaFpBRmwtU3hfS1FuQkxPSjFEZHZqWlhkVDdKZ3FxN0QxQm5hXzJ6QlpCQW04SDA2ejlMZWpvZTdlQUZ6N1RTQ1FzUlV3ZS1Wa2JZTFNYaVRIWHF5XzlvcUVqazNFeWswRi1nOHJqSy1Vd1E?oc=5)
+**출처**: Google News (K-beauty Skincare) · **중요도**: 보통
+
+**한국어 요약**: K-뷰티의 글로벌 인기에 힘입어 한국의 상위 3개 화장품 위탁제조(ODM) 기업들이 기록적인 분기 수익을 달성했다. 이는 한국 화장품 산업의 국제 경쟁력 강화와 수출 증가를 반영한다. K-뷰티 시장의 지속적 성장이 관련 산업에 긍정적 영향을 미치고 있다.
+
+**English Summary**: South Korea's top three cosmetics ODM (Original Design Manufacturer) companies have achieved record quarterly profits driven by the global K-beauty boom. The surge reflects growing international demand for Korean skincare products and the industry's expanding export capabilities.
+
+**핵심 키워드**: South Korea, cosmetics ODM companies, K-beauty market, quarterly profits
+
+## 산업 동향
+
+### 1. [건강한 표피를 위한 스킨케어 원료: 인산화올리고당칼슘](https://news.google.com/rss/articles/CBMiYkFVX3lxTE15ZzJUcE5zZTZrZ0x1eDhiMTVPTXgwVXhIWFItWjdVT3lmTHdkaTlaV3d1T1otTy1RcDdHZkJQTDVOZXdDRVhfQlFXS0tmN0lpOHRicWlSdEZSUG9QOEZJQ2hR?oc=5)
+**출처**: 코스인코리아 · **중요도**: 보통
+
+**한국어 요약**: 코스인코리아에서 소개하는 스킨케어 원료 '인산화올리고당칼슘'에 대한 기사입니다. 이 성분은 건강한 표피 형성을 돕는 스킨케어 원료로 주목받고 있습니다. 한국 뷰티 업계에서 활용되는 혁신적인 피부 관리 성분에 대한 내용을 다룹니다.
+
+**English Summary**: This article from Cosinckorea introduces phosphorylated oligosaccharide calcium, a skincare ingredient that supports healthy epidermis development. The piece highlights this innovative ingredient's role in modern skincare formulations within the Korean beauty industry.
+
+**핵심 키워드**: 코스인코리아, 인산화올리고당칼슘, 스킨케어
+
+### 2. [싱어 테이트 맥레이, 뷰티 브랜드 론칭 준비 중](https://cosmeticsbusiness.com/singer-tate-mcrae-launch-oen-beauty-brand)
+**출처**: Cosmetics Business · **중요도**: 보통
+
+**한국어 요약**: 싱어 테이트 맥레이가 자신의 이름을 딴 뷰티 브랜드 '테이트 바이 테이트 맥레이' 상표등록을 신청했다. 향수, 스킨케어 제품, 바디 로션, 립글로스 등 다양한 뷰티 제품과 캔들을 포함한다. 현재 뉴트로지나의 글로벌 브랜드 앰배서더로 활동 중이며, 최근 스킨케어 제품을 제대로 사용하지 않는 프로모션 영상으로 논란을 겪었다.
+
+**English Summary**: Singer Tate McRae filed a trademark application for 'Tate By Tate McRae' with the US Patent and Trademark Office on July 2, covering fragrances, skincare products, body lotions, lip glosses, and candles. McRae is currently a Global Brand Ambassador for Neutrogena but recently faced backlash on TikTok for appearing not to use the skincare products she was promoting.
+
+**핵심 키워드**: Tate McRae, USPTO, Neutrogena, Tate By Tate McRae
+
+## 트렌드
+
+### 1. [초록우산-키노닉스, 4700만원 상당 스킨케어 제품 미혼모 지원](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aX3MtSGVrS1lUWFhxaU5RQkVmZWh1R2k3RUVfMTVnRFZZaEszSFZ5Q2hYeUJHMlNTWUVkS3VveHMxbFhDUHJRMWFnNTJHTFRjUE5NMjg2TmhqRUQ2UXVGNW1B?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 초록우산과 스킨케어 브랜드 키노닉스가 협력하여 4700만원 상당의 스킨케어 제품을 미혼모 가정에 기증했다. 이는 사회 취약계층을 지원하는 기업의 사회공헌 활동의 일환이다. 두 기업이 함께 진행한 나눔 프로젝트로 스킨케어 산업의 사회적 책임을 보여주는 사례다.
+
+**English Summary**: Green Umbrella and skincare brand Kinokinics donated approximately 47 million won worth of skincare products to support single mothers. This corporate social responsibility initiative demonstrates how beauty and skincare companies are engaging in charitable activities for vulnerable populations.
+
+**핵심 키워드**: 초록우산, 키노닉스, 미혼모, 스킨케어
+
+### 2. [신세계면세점, '콜라겐 부스터' 쥬베룩 스킨케어 독점 입점](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ad3E0LUNTRWxadUxnLTg1VE9KSHlxRm5ka0RocXptclVndFZmVTZabmVjTHp3Zzd6UGVNVUdIX0VwX0V6akhELWt5Y2VVbWc?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 신세계면세점이 콜라겐 부스터 성분을 함유한 스킨케어 브랜드 '쥬베룩'을 스킨케어 업계 최초로 독점 입점했다. 이는 프리미엄 스킨케어 시장 확대 전략의 일환으로, 고객들에게 혁신적인 콜라겐 기반 피부 관리 제품을 제공한다.
+
+**English Summary**: Shinsegae Duty Free has exclusively launched 'Jouvéroux', a skincare brand featuring collagen booster ingredients, marking the first entry in the premium skincare market. This strategic move reflects the company's expansion into innovative skincare solutions targeting premium consumers.
+
+**핵심 키워드**: 신세계면세점, 쥬베룩, 콜라겐 부스터
+
+### 3. [랑콤, '압솔뤼 롱제비티 MD' 신제품 출시 기념 팝업스토어 오픈](https://news.google.com/rss/articles/CBMiekFVX3lxTE90M1JVYTBTcUlvbWptUmxOOWltY25ZVDVWU25rY2x1TlVMTVRieW9IS1dhRHhhRUV0QVJWV3hNdGpYazM3MjNVTVRRQjBwcXVHel85QWpOeFphZmFXWFVtd1UwanN2WmhYemU3QmRXcVcxTVZhYllKc0F3?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 낮음
+
+**한국어 요약**: 프랑스 럭셔리 뷰티 브랜드 랑콤이 스킨케어 신제품 '압솔뤼 롱제비티 MD'를 출시했다. 제품 출시를 기념하여 롯데 잠실점에 팝업스토어를 개설했다. 해당 팝업스토어에서는 신제품을 직접 체험하고 구매할 수 있다.
+
+**English Summary**: Lancôme, a luxury beauty brand, has launched its new skincare product 'Absolue Longevity MD' and opened a popup store at Lotte Jamsil to commemorate the release. The popup store allows customers to experience and purchase the new product directly.
+
+**핵심 키워드**: Lancôme, Absolue Longevity MD, Lotte Jamsil, 로이슈
+
+### 4. [휴젤, 레티보 이후 미국 시장 공략 스킨케어 2종 출시](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GQm9hYS1OVngtTlRnbUVxQjJoVkdfMDZrTzk1S0lXenRvbXBCS25nUVA0Zjc0RE9ZU3ZhY1Z3Z09UNWpPZkNMQTZIZmdualFReWNTbXVvNF9MX1Fz?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 한국 뷰티 기업 휴젤이 레티노이드 제품 레티보의 성공에 이어 내년 미국 시장에 스킨케어 제품 2종을 새롭게 출시할 계획이다. 이는 휴젤의 글로벌 스킨케어 사업 확대 전략의 일환으로, 미국 시장에서의 포지셔닝을 강화하려는 움직임이다.
+
+**English Summary**: Korean beauty company Huzel plans to launch two new skincare products in the U.S. market next year, following the success of its retinoid product Retibo. This expansion strategy aims to strengthen Huzel's presence in the global skincare market.
+
+**핵심 키워드**: 휴젤 (Huzel), 레티보 (Retibo), 미국 시장 (U.S. Market)
+
+### 5. [파미셀, 데일리 스킨케어 제품 '플레이셀' 리뉴얼 출시](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qOVRnOXRwMTRHem8yZG90YjByWmJFNG85SHJzcmk3Q1lKYkwxS0RkRVdPUTVIWDN3OTM1TTBESDRkRlNiaEVMbFI5TWpHcjAzc1RVNWNqSVQyQQ?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 파미셀이 데일리 스킨케어 제품 '플레이셀'을 리뉴얼하여 출시했다. 이번 리뉴얼은 기존 제품의 포뮬러를 개선하고 사용자 경험을 강화한 것으로 보인다. 한국 뷰티 시장의 스킨케어 제품 트렌드를 반영한 제품 업그레이드다.
+
+**English Summary**: Farmacell has launched a renewed version of its daily skincare product 'Playcell.' The renewal includes improved formulation and enhanced user experience. This product launch reflects current trends in the Korean beauty skincare market.
+
+**핵심 키워드**: Farmacell, Playcell, Daily Skincare
+
+### 6. [리센느, 스킨케어 브랜드 신규 모델로 위원이 선정](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ua050cnFBbGpSTnQycnB5VkowT3dWTjJ4UU8tcWVyMmpnWDQzT3cta1U5STdHMzZPSFJlV3U0WjNOdmsxT0dOTU9ucmRPWGlGY1J4aFVOTFZ6anU2d1RPXzFVeXo?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 스킨케어 브랜드 리센느가 연예인 위원을 새로운 얼굴로 발탁했다. 이는 브랜드의 마케팅 전략 강화 및 소비자 접근성 확대를 의도한 것으로 보인다. 위원의 캐스팅은 브랜드 이미지 제고와 시장 점유율 확대를 목표로 하고 있다.
+
+**English Summary**: Korean skincare brand Lissecne has appointed celebrity Won-i as its new brand ambassador. The move is part of the company's marketing strategy to strengthen brand awareness and expand consumer reach in the competitive K-beauty market.
+
+**핵심 키워드**: 리센느, 위원, 스킨케어 브랜드
+
+### 7. [마몽드, 24시간 화잘먹 선케어 2종 신제품 출시](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ualE3dk5CWElOWVVwU0NQQWpiWWhNRnhRcUVtM2xOZ2FReEd3cjFqX1BuRkFFd012TVViWVR1R090VDk4ZDVtM19ad3UzMmd1V0MwRVYwTmx3MGJBMXJrWF84aw?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 마몽드가 24시간 사용 가능한 '화잘먹 선케어' 신제품 2종을 출시했다. 이 제품들은 일중 자외선 차단뿐만 아니라 야간 케어까지 가능하도록 설계되었다. K-뷰티 브랜드의 혁신적인 선스크린 제품 라인 확대로, 스킨케어 시장의 새로운 트렌드를 반영하고 있다.
+
+**English Summary**: Mamonde launches two new '24-hour suncare' products under their skincare line. The new products are designed to provide UV protection throughout the day while offering nighttime skincare benefits, representing an innovative approach to comprehensive sun protection in the K-beauty market.
+
+**핵심 키워드**: 마몽드, 코스인코리아닷컴
+
+### 8. [바노바기, 광노화 케어 기능의 선스크린 2종 신제품 출시](https://news.google.com/rss/articles/CBMia0FVX3lxTFBtUXI2WGgwb3ZqeDNIXzRyUHlyT09aNGRCUzBXZ3BIRFNjNDlBVjBxVkNOTEZraGRVbWhYbDk0c1Q0T3ZzeGs5cFJJZlZIenZ6cFJkSTR4VkQxNlpSV05SREdzamRrb2txVWpZ?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 바노바기가 광노화 케어 기능을 강화한 선스크린 제품 2종을 새롭게 출시했다. 자외선 차단과 함께 광노화로 인한 피부 손상을 케어하는 기능을 갖춘 제품으로, K-뷰티 시장에서 고기능성 선스크린의 수요 증가에 대응한 것으로 보인다. 바노바기의 제품 혁신 전략을 보여주는 사례다.
+
+**English Summary**: Banobagi launched two new sunscreen products that combine UV protection with photodamage care functionality. The new product line addresses the growing consumer demand for multi-functional sunscreen products in the K-beauty market.
+
+**핵심 키워드**: 바노바기 (Banobagi), 선스크린, 광노화 케어
+
+### 9. [바임의 '쥬베룩 스킨케어', 신세계면세점 입점](https://news.google.com/rss/articles/CBMiakFVX3lxTE5uUjZsTjFuQ3RCZzhQbDFERFlJODNaZC15N0VZMGdxQ2lDb1dVRDZFeUN1SUVnaFNZV09EanFPNkJ3SGhkQzI0Zm12OXBFVWJfd1pKOFU4TFMwaTVaZ3BtNWRPb0c5bWVWTWc?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 스킨케어 브랜드 바임이 '쥬베룩 스킨케어' 제품으로 신세계면세점에 입점했다. 이는 프리미엄 스킨케어 시장 진출을 의미하며, 고급 유통채널을 통한 브랜드 확대 전략으로 평가된다. 쥬베룩은 피부 재생과 케어에 중점을 두는 의약외품 스킨케어 제품이다.
+
+**English Summary**: Baim, a skincare brand, has launched its 'Jubulook Skincare' line at Shinsegae Duty Free stores. This marks the brand's expansion into the premium skincare market through high-end retail channels. Jubulook is a dermatologically-focused skincare product line emphasizing skin regeneration and care.
+
+**핵심 키워드**: 바임 (Baim), 쥬베룩 스킨케어 (Jubulook Skincare), 신세계면세점 (Shinsegae Duty Free)
+
+### 10. [저가 향수 성분 분석, 피해야 할 위험 성분 적발](https://news.google.com/rss/articles/CBMiXkFVX3lxTE92d3Y2RXR6a2luaVRkRDhlc1FQSlBqZjJQWVpoWTJlbHA3SkFRMjdmS0UwMU9XMm5mUUhxbEtpMkJqeWpnVW8tLVdaWjlZeTl3R19WRGQ0NjZjOUkwemc?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 보통
+
+**한국어 요약**: YTN에서 저렴한 향수 제품들에 대한 성분 분석을 실시했으며, 사용해서는 안 되는 위험한 성분이 발견되었다. 연구 결과는 소비자들이 향수 구매 시 성분을 꼼꼼히 확인해야 함을 강조하고 있다. 이는 화장품 안전성과 소비자 보호에 관련된 중요한 뉴스이다.
+
+**English Summary**: YTN analyzed the ingredients in cheap perfume products and discovered harmful components that should not be used. The investigation reveals shocking results about dangerous substances in low-cost fragrance products, highlighting the need for consumers to carefully check ingredient lists when purchasing perfumes.
+
+**핵심 키워드**: YTN, 저가 향수, 화장품 성분
+
+### 11. [한국 약국의 글로벌 매력... 비타민부터 화장품까지](https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlBrSDRHdFQ4aGJiVEdqT0tOOEFqYzRfUmoyNFIwN3dCN18zYzZHNjlRbmRzM3lDekUwRE1pd1JqamV3bXJLU3M0MmlvTGUyQWZqUi1maHBRQllRelpLOHBSUnFoZk41WFpvVUdoU3doVnRSQ2UyczMtUk9Wb2s5VWpzWQ?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 보통
+
+**한국어 요약**: 한국 약국이 비타민, 연고, 화장품 등 다양한 제품을 판매하며 외국인 관광객들 사이에서 인기를 얻고 있다. K-뷰티 제품과 의약품을 함께 구매할 수 있는 약국의 독특한 비즈니스 모델이 관광 쇼핑의 새로운 트렌드가 되고 있다. 한국의 우수한 화장품 성분과 접근성이 외국인 방문객들의 구매욕을 자극하고 있는 상황이다.
+
+**English Summary**: Korean pharmacies are gaining popularity among foreign tourists by selling vitamins, ointments, and cosmetics alongside pharmaceuticals. The unique business model of K-pharmacies that combine skincare products with medicines is becoming a new shopping trend for international visitors.
+
+**핵심 키워드**: Korean pharmacies, foreign tourists, K-beauty products, vitamins and ointments
+
+### 12. [대봉엘에스·한국콜마, 식물성 단백질 기반 화장품 전달체 플랫폼 공동 개발](https://news.google.com/rss/articles/CBMiakFVX3lxTE00LUN0LUk1NUotRG5IMTFlWVl2TmpEbkdGVkJ1MTI3UjFuNU91dl9hcEVxNmo0NllQN3pTdDc2T1hqalFvRkN5MVNrTGRoYmJFcVRBRkdZUk1pZ2RuWmhfeEZGanJBMVBNS1E?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 보통
+
+**한국어 요약**: 대봉엘에스와 한국콜마가 식물성 단백질을 기반으로 한 차세대 화장품 전달체 플랫폼을 공동으로 개발했다. 이 플랫폼은 화장품 유효 성분의 피부 침투율을 높이고 안정성을 개선하는 혁신적인 기술이다. 두 회사는 이를 통해 고기능성 화장품 시장에서 경쟁력을 강화할 계획이다.
+
+**English Summary**: Daebong LS and Korea Colmar have jointly developed a next-generation cosmetic delivery platform based on plant-based proteins. This innovative technology enhances skin penetration and stability of active cosmetic ingredients, strengthening both companies' competitiveness in the high-functionality cosmetics market.
+
+**핵심 키워드**: 대봉엘에스 (Daebong LS), 한국콜마 (Korea Colmar), 식물성 단백질, 화장품 전달체
+
+### 13. [천연 화장품 시대의 종말인가?](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RdjY2d1NDaG9mZVZ2Y3JVa0ZSRThQSEdpTUZsUnRMWGlmZFlEMXdYRTF5MXhFcnMyMEdSTGtsNV9Kazl0WkNCdWhraDNESkZhUnF4X2Nkem9lOHNLYmNlbC15X3c?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 보통
+
+**한국어 요약**: 본 기사는 천연 화장품 트렌드의 변화와 현황을 다룬다. 소비자들이 천연 성분만을 고집하던 시대가 지나가고 있으며, 과학 기반의 효과적인 화장품 성분에 대한 인식이 높아지고 있다. 천연과 합성 성분의 균형잡힌 접근 방식이 화장품 시장의 새로운 트렌드로 부상하고 있다.
+
+**English Summary**: The article examines the decline of the natural cosmetics era and shifting consumer preferences. As scientific evidence supporting synthetic and active ingredients grows, consumers are moving away from exclusively natural product preferences. The cosmetics industry is shifting toward balanced formulations combining natural and science-backed synthetic ingredients.
+
+**핵심 키워드**: natural cosmetics market, beauty industry, cosmetic formulations, consumer trends
+
+### 14. [원료와 제형 기술 결합으로 K-뷰티 혁신 가속화](https://news.google.com/rss/articles/CBMiakFVX3lxTE5ueUwwVHNFZ1lXNFdQQTRPd0ktNU14YTZ6Yl9oZXh6VXo3QW9NbEVKelg0RnZYN1hnQXFOT005cjdqNHZDd3JsaGFJZ3ZKbU10NjJSQV9PdTVCdEM4bk9BZzA4MHdUSHdnWFE?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 보통
+
+**한국어 요약**: K-뷰티 산업이 원료 기술과 제형 기술을 결합하여 기술 혁신을 가속화하고 있다. 이러한 통합적 접근은 한국 화장품의 경쟁력을 강화하고 글로벌 시장에서의 입지를 확대하는 데 기여하고 있다. 화장품 성분 기술과 전달 체계의 발전이 K-뷰티의 차별화 전략으로 작용하고 있다.
+
+**English Summary**: K-beauty industry is accelerating technological innovation by combining raw material technology with formulation technology. This integrated approach strengthens the competitiveness of Korean cosmetics and expands their global market presence. The advancement in cosmetic ingredient technology and delivery systems serves as a differentiation strategy for K-beauty products.
+
+**핵심 키워드**: K-뷰티, 화장품 기술, 원료 기술, 제형 기술, 뷰티경제
+
+### 15. [대봉엘에스-한국콜마, 쌀 단백질 DDS 기술 공동개발](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sczNDS3k0enpqM0xBQ2N3eUY1MW5mM205ZUlxOXZDS0FQekRhRXpEUlBSRkVzTk5RWmxuUWM1bkd5cWZqQXhPZjdqZFFPS2hCY2pmdTJMcU5GVUJSb3pXWXFhWQ?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 보통
+
+**한국어 요약**: 대봉엘에스와 한국콜마가 쌀 단백질을 기반으로 한 차세대 약물전달시스템(DDS) 기술을 공동으로 개발했다. 두 회사는 관련 특허 2건을 함께 출원했으며, 이는 화장품 및 의약품 분야에서의 혁신적인 성분 전달 기술로 평가받고 있다.
+
+**English Summary**: Daebong LS and Korea Colmar jointly developed next-generation Drug Delivery System (DDS) technology based on rice protein. The two companies jointly filed two patents for this innovative ingredient delivery technology, which is expected to advance cosmetics and pharmaceutical applications.
+
+**핵심 키워드**: 대봉엘에스 (Daebong LS), 한국콜마 (Korea Colmar), 쌀 단백질 (Rice Protein), DDS (Drug Delivery System)
+
+### 16. [대봉엘에스-한국콜마, 식물성 단백질 DDS 플랫폼 공동 개발](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jMzJ2cjJvaXZQQ2o5YnJta1FnS29HNEtObjI2eHl3Xzl5Sm5oX2xuRVM2LVJjUmxJOE1tclc2RWt4UTRoY3R1QmNNWXBmMHFFSi1TQmZTa1BaZ0hjTjE0MlEwR2ZTQU5L0gFuQVVfeXFMTTd3YlZJYnFJXzAtUm4xTm5LTXc0a0pLeE0ydGtId1JkY2paWTc3dXBaaDYxb3B4S291NmlyUFZ6RFZsQ3lqc2MtVDRQd1FrazRTQ0JNeXhUUFlrMDZSZ21LMGhrNnZsQklsOGEzUHc?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 높음
+
+**한국어 요약**: 대봉엘에스와 한국콜마가 식물성 단백질 기반의 차세대 DDS(Drug Delivery System) 플랫폼을 공동 개발하기로 협력했다. 이는 화장품 및 의약품 산업에서 활성 성분의 전달 효율성을 높이기 위한 혁신적인 기술로, 천연 유래 성분을 활용한 지속 가능한 솔루션을 제시한다. 두 회사의 기술 협력을 통해 K-뷰티 시장의 경쟁력 강화가 예상된다.
+
+**English Summary**: Daebong LS and Korea Colmar have announced a joint development of a next-generation drug delivery system (DDS) platform based on plant-derived proteins. This innovation aims to enhance the efficacy of active ingredients in cosmetics and pharmaceuticals using sustainable, natural-origin components, strengthening competitiveness in the K-beauty market.
+
+**핵심 키워드**: 대봉엘에스, 한국콜마, DDS(Drug Delivery System)
+
+### 17. [명품 위조 향수·화장품에서 유해물질 검출, 소비자 주의 필요](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXblRWdndia2l1MS10RHpEZjVsMW9IMktnbUVsZjBaM2xYZHZxS0lNOF9mdlU5X3ZfeVpyUkl0UFdVWkZSVFBldlp1eno0UWN6S0lGM19R?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 높음
+
+**한국어 요약**: 명품 브랜드로 위장한 위조 향수와 화장품에서 유해물질이 검출되어 소비자 안전 문제가 제기되었다. 해당 제품들에는 피부 자극 물질 및 독성 성분이 포함되어 있는 것으로 확인되었다. 소비자들은 정품 구매처 확인 및 성분 검증을 통해 건강을 보호해야 한다.
+
+**English Summary**: Counterfeit luxury fragrances and cosmetics have been found to contain harmful substances, raising consumer safety concerns. The fake products were detected with hazardous ingredients that could cause skin irritation and health risks. Consumers are advised to verify authentic purchasing channels and product ingredients.
+
+**핵심 키워드**: 명품 위조제품, 향수, 화장품, 유해물질, 소비자안전
+
+### 18. [로열젤리 성분 '10-HDA', 피부 주름 개선 효과 입증](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00QW5VUE9uV1NIRjh3MnRqd3QxbXJkbnh6TVRWNTRxZjlVdUh1bU9tWEliazBpS0ZOdkNSQ2xjQkNEZHNSRVJFRWFINWE0blgxaU5KWEFn?oc=5)
+**출처**: Google 뉴스 (피부 보습) · **중요도**: 보통
+
+**한국어 요약**: 로열젤리의 핵심 성분인 10-HDA(10-hydroxy-2-decenoic acid)가 피부 주름 개선에 효과적임이 확인되었다. 이 연구는 로열젤리의 생리활성 성분이 피부 노화 방지에 어떻게 작용하는지를 보여준다. 해당 성분은 피부 보습 및 항노화 제품 개발에 새로운 가능성을 제시한다.
+
+**English Summary**: Research has confirmed that 10-HDA (10-hydroxy-2-decenoic acid), a key component of royal jelly, effectively improves skin wrinkles and anti-aging. The study demonstrates how this bioactive ingredient works to prevent skin aging. This finding presents new possibilities for developing skincare and anti-aging products.
+
+**핵심 키워드**: 로열젤리, 10-HDA, 피부주름, 현대건강신문
+
+### 19. [티몰 뷰티 7월 리포트: 크림 시장이 보습에서 피부 건강으로 진화](https://news.google.com/rss/articles/CBMiakFVX3lxTE9Bd0hUclBhTHZvbmxnS0VPYkxLZm11dnVFdnlMVUhqc2FFbXAtenBWeUMwbWNrdFlBNXktTFRTdVYyQk1YazVFTmZRYnhjdkIxcGZhQ0RqNXY2Z2xVQzNSRVhXSkZnSGhFeUE?oc=5)
+**출처**: Google 뉴스 (피부 보습) · **중요도**: 보통
+
+**한국어 요약**: 티몰의 7월 뷰티 트렌드 리포트에 따르면 크림 시장이 단순 보습 기능에서 피부 건강 개선으로 초점이 이동하고 있다. 소비자들이 보습뿐 아니라 피부 건강을 위한 기능성 크림을 선호하는 추세를 반영하고 있으며, 이는 K-뷰티 시장의 프리미엄화와 고기능성 제품 수요 증가를 보여준다.
+
+**English Summary**: Tmall's July Beauty Trend Report highlights a shift in the cream market from basic moisturizing to skin health improvement. Consumers are increasingly demanding multi-functional creams that address skin health concerns beyond hydration, reflecting the premiumization trend in the K-beauty market.
+
+**핵심 키워드**: Tmall, 뷰티경제, K-beauty market
+
+### 20. [인도 소비자가 쌀 성분 스킨케어를 선택하는 이유](https://news.google.com/rss/articles/CBMiakFVX3lxTE1hSk9GZlViMlVvSEJiY3RWU3lrRTF2ZVgyRnhxczJteXlOUktiMlMwZlFqdE0ySWV2Z1JKYm5YYTg1U2JVdGVOT1JWRnNVT2pnZTFhRl9YbEtJQTNxV0R0cjZrckhmdkt5TEE?oc=5)
+**출처**: Google 뉴스 (피부 보습) · **중요도**: 보통
+
+**한국어 요약**: K-뷰티 인도 시장 진출 리포트 4편으로, 인도 소비자들이 쌀 성분이 함유된 스킨케어 제품을 선호하는 이유를 분석한다. 쌀은 인도 전통 미용 문화에서 오랫동안 사용되어온 천연 성분이며, 현지 소비자들의 피부 특성과 문화적 선호도에 부합하여 K-뷰티 브랜드의 시장 진출 기회를 제시한다.
+
+**English Summary**: This article analyzes why Indian consumers prefer skincare products containing rice ingredients, as part of a K-beauty market entry report. Rice is a traditional ingredient in Indian beauty culture with proven benefits for local skin types, presenting opportunities for Korean beauty brands to tailor products for the Indian market.
+
+**핵심 키워드**: K-뷰티, 인도 시장, 쌀 성분, 스킨케어, 뷰티경제
+
+### 21. [니콜 키드먼, 영국 보그 표지에서 거의 보이지 않는 눈썹 트렌드 제시](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdlJhSlZEWUk3RUJlVEtNRmUxdHpFa3V4MUdZekZWTTY3RUpCd3dXNVZHOHo3SE9oUFZtNHpQbG5ZcnFBclVMMGdQdzRaWFFTMzhIVkhoOUVEdzVTWEM2SFBkZl9oZE4xQ1pQTFhlM1g5aXUtM2owajN4U18yMVFPN095UkpCWC1DdnBV?oc=5)
+**출처**: Allure Skincare · **중요도**: 낮음
+
+**한국어 요약**: 니콜 키드먼이 영국 보그 표지에 등장하며 거의 보이지 않을 정도의 미니멀한 눈썹 스타일을 선보였다. 이는 뷰티 업계에서 주목받는 새로운 눈썹 트렌드로, 자연스럽고 거의 티나지 않는 메이크업 스타일의 인기 증가를 반영한다.
+
+**English Summary**: Nicole Kidman showcases an almost invisible eyebrow trend on the cover of British Vogue. This minimal brow styling represents a shift in beauty aesthetics toward natural, barely-there makeup looks.
+
+**핵심 키워드**: Nicole Kidman, British Vogue, Allure
