@@ -1,0 +1,314 @@
+---
+layout: post
+title: "2026-11-07 뷰티 데일리 브리핑"
+date: 2026-11-07 00:07:00 +0900
+categories: [beauty]
+tags:
+  - 3분기 실적
+  - GLP-1 users
+  - Japan
+  - K-beauty
+  - K-뷰티
+  - Korea
+  - Korean beauty industry
+  - Korean cosmetics
+  - Korean_beauty
+  - Seoul hub
+  - Suwon
+  - US market
+  - anti-aging
+  - antioxidant
+  - beauty
+  - beauty brand
+  - beauty industry
+  - brand strategy
+  - brand_success
+  - business ecosystem
+---
+
+> 수집 시각: 2026-11-07 01:11 UTC | 총 31건
+
+## K-뷰티 스킨케어
+
+### 1. [수원시, K-뷰티 산업 거점도시 추진…130개 기업 참여](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XTXZIWURkNll1bGtQb2xlb3pwa1VuLXBTYTZId0o1TUpUNng3TDVYdTREaDcwTDM3WkI0N2tlSjljRk1MalBBc0l3T3R5NVRRQ3haVERNT25ZRjA?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 보통
+
+**한국어 요약**: 수원시가 K-뷰티 산업의 중심지로 도약하기 위해 130개 기업을 모아 미래 성장동력을 모색하고 있다. 이는 수원을 뷰티 산업 거점도시로 육성하려는 지방정부의 전략적 노력이다. K-뷰티의 글로벌 경쟁력 강화와 산업 생태계 조성을 목표로 하고 있다.
+
+**English Summary**: Suwon city is positioning itself as a K-beauty industry hub by bringing together 130 companies to explore future growth opportunities. The initiative aims to strengthen K-beauty's global competitiveness and foster a robust industrial ecosystem in the region.
+
+**핵심 키워드**: 수원시 (Suwon City), K-뷰티 (K-Beauty), 130개 기업 (130 Companies), 에너지경제신문 (Energy Economic News)
+
+### 2. [화장품 판매 없이 예약 하루 만에 마감…K-뷰티의 일본 마케팅 실험](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DaUpwWlBNVVloUnNsZk5kZTczVlJlSmdXVHNFaDJHQ1NCWTF6QUd0WEdfMFJRZm1ZTTNsTm9Ec04zakxZaUplMFFsVDRlNk54ZVkwemdYQ0NVZTA4b2ZvSnMyMGc?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 보통
+
+**한국어 요약**: 한국 뷰티 브랜드가 일본에서 혁신적인 마케팅 실험을 진행했다. 실제 화장품을 판매하지 않으면서도 단순 예약만으로 하루 만에 마감될 정도로 높은 관심을 얻었다. 이는 K-뷰티의 강력한 브랜드 가치와 마케팅 전략의 효과를 보여주는 사례다.
+
+**English Summary**: A Korean beauty brand conducted an innovative marketing experiment in Japan where reservations sold out in just one day despite not actually selling cosmetic products. This demonstrates the strong brand appeal and effective marketing strategy of K-beauty in the Japanese market.
+
+**핵심 키워드**: K-뷰티 브랜드, 일본 시장, 마케팅 실험
+
+### 3. [K뷰티, 겨울 시즌 해외 소비자 확대 전략](https://news.google.com/rss/articles/CBMicEFVX3lxTE9BMzZGVjZwNlB5S1dTYlprdjlmVkduNzZYVzFjWS1KWDV4OVdaM082MmJQeXZ4enlKbE5rUUp2WThGV3M4M1VIVjkxWm9hRmtBSHlJYjVsM1ZuWm5tX2ZXc2I0UV90bWJEaEtmM2wxNVI?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 보통
+
+**한국어 요약**: 한국 뷰티 산업이 겨울 시즌을 맞아 해외 소비자와의 접점을 확대하고 있다. K뷰티 기업들이 계절 변화에 맞춘 제품 및 마케팅 전략을 통해 국제 시장 진출을 적극 추진 중이다. 이는 한국 뷰티 산업의 지속적인 글로벌 성장 전략의 일환이다.
+
+**English Summary**: Korean beauty brands are expanding their international consumer reach during the winter season with tailored product and marketing strategies. K-beauty companies are actively pursuing global market expansion by adapting to seasonal changes and consumer demands.
+
+**핵심 키워드**: K-beauty industry, international consumers, winter market
+
+### 4. [K-뷰티 수출 호황 속 수익성 격차 심화](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HdnU2Mm4tRHZTcTBiTTFWSms1WWdwZklXNE8yTElrdUM1TVpqUkR3Z3BlMWdtYU13WDlfNFVRNG9SYnNZYmZramYtcmF0Rnc2ekJ0LS1POUZGRVBEMFBB?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 보통
+
+**한국어 요약**: K-뷰티 제품의 수출 규모는 증가하고 있으나, 기업별 실적에는 큰 온도차가 발생하고 있다. 판매량 증가가 반드시 수익성 개선으로 이어지지 않는 현상이 나타나고 있으며, 이는 원가 상승, 마진율 악화, 유통 구조 문제 등이 복합적으로 작용하고 있음을 시사한다.
+
+**English Summary**: While K-beauty export volumes are growing, profitability metrics show significant disparities among companies. The article highlights that increased sales do not necessarily translate to improved earnings, due to rising costs, margin compression, and distribution challenges affecting the industry differently.
+
+**핵심 키워드**: K-뷰티, 수출, 실적, 수익성, 미용 산업
+
+### 5. [에이블씨엔씨 미샤 BB크림, 영국 하퍼스 바자 메이크업 부문 K-뷰티 유일 수상](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqbGRRRVlXWHpmWlM1RzRUNlotZXdPVkZ0U0FGQ1pSNGd6aU8yaHVEbEtDWUJZYzAyMEluUXdnYmdDMkxETHB1LWFvengtOFFieHgxdVFNOXpublNBUWtoaWlqWQ?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 보통
+
+**한국어 요약**: 에이블씨엔씨의 미샤 BB크림이 영국의 권위 있는 패션·뷰티 매거진 하퍼스 바자(Harper's Bazaar) 메이크업 부문에서 K-뷰티 제품 중 유일하게 수상했다. 이는 한국 화장품 브랜드의 국제적 경쟁력과 인지도를 입증하는 사례로, 미샤의 글로벌 마켓 확대에 긍정적 신호다.
+
+**English Summary**: Able C&C's MISSHA BB Cream received an award in the makeup category from Harper's Bazaar UK, being the only K-beauty product honored in this category. This recognition demonstrates the international competitiveness and growing global recognition of Korean beauty brands.
+
+**핵심 키워드**: 에이블씨엔씨 (Able C&C), 미샤 (MISSHA), 하퍼스 바자 (Harper's Bazaar), BB크림
+
+### 6. [지식재산처, K-뷰티 세계 1위 도약 지원 현장간담회 개최](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQeU03dHNCUkw3VVlzQmM5ckhUWU9LVXprb293ck50Vmp5WXhicmNwdzd5akU1STlEQlB5Zkx1eXBIRE5BVVhrLXBrWks4c2pqak5RNkpzZHFkM19wZzFFYTZJcw?oc=5)
+**출처**: Google 뉴스 (K뷰티) · **중요도**: 보통
+
+**한국어 요약**: 지식재산처가 K-뷰티 산업의 글로벌 경쟁력 강화를 위해 현장간담회를 개최했다. K-뷰티 기업들의 세계 시장 진출을 지원하고 지식재산권 보호 전략을 논의하는 자리로 마련되었다. 한국 뷰티 산업의 국제적 위상을 높이기 위한 정부 차원의 적극적 지원 의지를 드러냈다.
+
+**English Summary**: The Korean Intellectual Property Office held a field meeting to support K-beauty industry's global expansion and aim for world market leadership. The gathering focused on strengthening the competitiveness of Korean beauty companies and discussing intellectual property protection strategies for the beauty sector.
+
+**핵심 키워드**: 지식재산처 (Korean Intellectual Property Office), K-뷰티 산업 (K-beauty industry), 쿠키뉴스 (Cookie News)
+
+### 7. [올리브영, 미국 시장에서 한국 뷰티 전략 강화](https://news.google.com/rss/articles/CBMidkFVX3lxTE96UkRjUXQzVEhVZlhjcFJGQXQzdVkxNWdfSkg3YVVJajk2b25MY01id1hVeWtZNXBoRV9FRWhnUmpwV3FyWFBxWk51bTRsbGNPdmJTUDNyTkxDT3F2UFNCaHRaVVhJOFFENkFXazlKdG5IVFljOFE?oc=5)
+**출처**: Google News (K-beauty Skincare) · **중요도**: 보통
+
+**한국어 요약**: 올리브영이 미국 시장 진출을 확대하며 한국 뷰티 브랜드의 글로벌 입지를 강화하고 있다. K-뷰티 상품과 판매 전략을 미국 소비자 맞춤으로 개편하여 미국 내 한국 화장품 시장 점유율을 높이려는 움직임이다. 이는 한국 뷰티 기업의 국제화 전략 심화를 보여주는 사례다.
+
+**English Summary**: Olive Young is expanding its presence in the US market by adapting its Korean beauty product formula and retail strategy to meet American consumer preferences. The company is strengthening its position as a key distributor of Korean beauty brands in the US market, reflecting the growing global demand for K-beauty products.
+
+**핵심 키워드**: Olive Young, Korean beauty brands, United States market
+
+### 8. [K-뷰티 수출의 교훈: 2년 요청, 1년 공급](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZnFYQTV1c2pVVTlreEwtai1RdmhfS0ZrVmhlX2xJcncyRXhTOGJiSVc0aGczTDRxTm14c3dnNk1xaXU0R0dIRzlwWWloZy1Ua2NhaDhONEVJZ3lfWnZIWWJkdVBWY01aX2ktUGRMR1FmV0pTZl9OamNGeDJZS05ZX3ZYdw?oc=5)
+**출처**: Google News (K-beauty Skincare) · **중요도**: 보통
+
+**한국어 요약**: 한국 스킨케어 업체가 해외 수출 시 2년의 납기 요청을 받았지만 1년 내에 공급해야 하는 상황을 다룬 기사입니다. K-뷰티 제품의 수출 과정에서 직면하는 생산 및 공급 체인의 현실적 어려움과 산업 교훈을 제시합니다. 글로벌 시장 수요와 국내 생산 역량 사이의 격차 해결이 K-뷰티 산업의 주요 과제임을 강조합니다.
+
+**English Summary**: This article examines K-beauty skincare exporters facing the challenge of fulfilling orders with a one-year delivery timeline when requesting two years to supply. It highlights the disconnect between global market demand and domestic production capacity, offering lessons for the Korean beauty industry's export strategy and supply chain management.
+
+**핵심 키워드**: K-beauty industry, skincare exporters, global market demand, domestic production capacity
+
+## 산업 동향
+
+### 1. [아모레퍼시픽, GLP-1 사용자 대상 라보에이치 두피관리 만족도 조사 결과 공개](https://news.google.com/rss/articles/CBMiY0FVX3lxTE13T1FnRC1XQXVrTl9IcnhzQWdreWlpQWpnczYyWkY0MTFnTGtfZlo0NmpXOC04LXVpQnpHalBjOV8tQWtKTDlPYkhjcUYxOHFVcURuVFBHSnJoU1NQckJrX3pQOA?oc=5)
+**출처**: 코스인코리아 · **중요도**: 보통
+
+**한국어 요약**: 아모레퍼시픽이 GLP-1(글루카곤 유사펩타이드-1) 약물 사용자들을 대상으로 자사 두피관리 제품 라보에이치의 만족도 조사를 실시하고 결과를 공개했다. 이는 최근 증가하는 GLP-1 사용자들의 특화된 뷰티 케어 수요에 대응하기 위한 마케팅 전략으로 보인다. 조사를 통해 GLP-1 사용자들의 두피 건강 관련 니즈를 파악하고 제품 개선 방향을 모색하고 있다.
+
+**English Summary**: Amorepacific has released a customer satisfaction survey results for its LABO:H scalp care product line targeting GLP-1 drug users. This strategic initiative addresses the growing demand for specialized beauty care among the increasing GLP-1 user population. The survey aims to identify scalp health needs of GLP-1 users and inform product development.
+
+**핵심 키워드**: 아모레퍼시픽 (Amorepacific), 라보에이치 (LABO:H), GLP-1
+
+### 2. [슈완 코스메틱스, 서울에 북아시아 허브 개설으로 K-뷰티 혁신 가속화](https://cosmeticsbusiness.com/schwan-cosmetics-taps-k-beauty-innovation-with-north)
+**출처**: Cosmetics Business · **중요도**: 보통
+
+**한국어 요약**: 슈완 코스메틱스는 2027년 1월 서울에 북아시아 지역본부를 개설할 예정이다. 이 허브는 한국의 스킨케어, 활성 성분, 장수 기술과 슈완의 포뮬레이션 전문성 및 글로벌 생산 네트워크를 연결하여 K-뷰티 혁신을 시장에 더 빠르게 출시할 수 있게 한다. 서울 팀은 현지 파트너와 협력하여 글로벌 잠재력을 가진 개발 사항들을 신속하게 발굴하고 글로벌 네트워크에 통합할 것이다.
+
+**English Summary**: Schwan Cosmetics will establish a North Asia hub in Seoul opening January 2027 to accelerate K-beauty innovation. The hub will connect Korea's skincare and ingredient advancements with Schwan's formulation expertise and global production network, enabling faster speed-to-market for color cosmetics with skincare benefits. The Seoul team will identify local innovations early and integrate them into the global supply chain for customers worldwide.
+
+**핵심 키워드**: Schwan Cosmetics, Seoul, North Asia, Dr. Alexander Doll, Leroy Lee
+
+### 3. [30초마다 판매되는 속눈썹 세럼의 성공 스토리](https://cosmeticsbusiness.com/a-tube-of-this-lash-serum-is-sold)
+**출처**: Cosmetics Business · **중요도**: 보통
+
+**한국어 요약**: 안과의사 Dr. Michael Brinkenhoff가 암 투병 중인 아내를 위해 개발한 속눈썹 세럼 'RevitaLash Advanced'가 전 세계적으로 성공했다. 입소문을 통해 30개 이상의 산업상을 수상하고 31,000개의 5성 리뷰를 기록했으며, 30초마다 한 튜브씩 판매되고 있다. 화장품 경험 없이 시작한 부부가 사명감으로 구축한 뷰티 브랜드의 성장 사례다.
+
+**English Summary**: Dr. Michael Brinkenhoff developed RevitaLash Advanced lash serum for his wife during her breast cancer treatment, initially as a personal solution. The product gained viral success through word-of-mouth, achieving 30+ industry awards and 31,000 five-star reviews, with one tube selling every 30 seconds globally.
+
+**핵심 키워드**: RevitaLash Advanced, Dr. Michael Brinkenhoff, Gayle Brinkenhoff
+
+## 트렌드
+
+### 1. [더샘, 콜라겐 레티날 캡슐 세럼 신제품 출시](https://news.google.com/rss/articles/CBMid0FVX3lxTE9pOGRHMEFQRzFWUUZJYW96OWdHejNKT2xrTHNsYlg1VGFwQm5FN2ZBa0h6Y3YydjJyVXpXQ2RXT3pJeS1Zd054U2JhUEFNR1lPOU44bjdzS2RCTUE3NkEtZlhBbXF1bGlhc0JYQTBiMXZISjVEVlNz?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 스킨케어 브랜드 더샘이 콜라겐과 레티날 성분을 함유한 새로운 캡슐 세럼 제품을 출시했다. 이 제품은 피부 탄력과 주름 개선을 위한 안티에이징 기능성 세럼으로 설계되었다. 더샘의 신제품 출시로 국내 프리미엄 스킨케어 시장에 새로운 선택지가 추가되었다.
+
+**English Summary**: The Sam, a Korean skincare brand, has launched a new collagen retinal capsule serum product. The serum is formulated with collagen and retinal ingredients targeting anti-aging benefits and wrinkle improvement. This product launch represents an innovation in Korea's premium skincare market.
+
+**핵심 키워드**: 더샘 (The Sam), 콜라겐 레티날 캡슐 세럼, 주간신문씨엠엔
+
+### 2. [한국콜마, 국내 매출 사상 최대 달성...선케어·스킨케어로 수익성 강화](https://news.google.com/rss/articles/CBMiXEFVX3lxTE43a0syeXpsMWRMQ1hmRld0dmp0ZFVTT3FHa1lHdVl2d3h3YjhMSGRjYTItRFFqUGptZW53SkRoMlJOank0RmZCZDdwWm9nSU16LXFLTzhYNXVwYkRm?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 한국콜마가 국내 매출에서 사상 최대 실적을 기록했다. 선케어와 스킨케어 제품군이 매출 증대 및 이익 개선을 주도했다. 이는 K-뷰티 시장에서 한국콜마의 강화된 시장 지위를 보여주는 성과다.
+
+**English Summary**: Korean Colmar achieved record-high domestic sales, driven by growth in suncare and skincare product categories. The company improved profitability through these core beauty segments, strengthening its market position in the K-beauty sector.
+
+**핵심 키워드**: 한국콜마 (Korean Colmar), 선케어 (Suncare), 스킨케어 (Skincare)
+
+### 3. [리꼼, 살몬 비타 워터 에센스 일본 로프트 입점으로 유통망 확대](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzbmtyZk8wREJ2NFRuQnRyTUZWTEEzY0NES3I4QldGaDRnSXZDRXVleENZOS1oWlNZSUx4VU1aVFFsVGU2ODFkVUpDNmN3clNJSGlpYWluOS1LdXNhbjBFbnFpb3YyMzE5?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 한국 스킨케어 브랜드 리꼼이 '살몬 비타 워터 에센스' 제품으로 일본의 대형 백화점 로프트에 입점했다. 이는 리꼼의 일본 시장 진출 및 현지 유통망 확대 전략의 일환이다. K-뷰티 제품의 해외 시장 확대 사례를 보여준다.
+
+**English Summary**: Korean skincare brand Ricom has launched its 'Salmon Vita Water Essence' product at Loft, a major Japanese department store. This expansion marks Ricom's strategic growth in the Japanese market and strengthens its distribution network abroad.
+
+**핵심 키워드**: 리꼼 (Ricom), 살몬 비타 워터 에센스, 로프트 (Loft), 일본
+
+### 4. [부스터즈 '기픈', 무신사 뷰티에서 스킨케어 1위 달성](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnFDNjFSbzZyRGYycTdmdkZpUF8xOEVkODBWRlNiU29SeDUzMXlzMWtoY2l3MVZ6OHpZTkNsdXhLb1dnNGplN1dENklYT1JCOGhpb3VXMjJNYm44bEVsTi0xRXdwOFVsZmxhTndYaWJSMnpZS2t6NHBrUmw5X0xDUXYzNkVFWGNJWWZ3Q9IBoAFBVV95cUxQaXQ2TmZNdDVXS3RVRzhQXzlvNTk1UC1GUDlvQUl4X2J2NWRpSGxCQ0Rud05kcHVjWE5ZR1FYTHVaRUQ0UU1QaXZMbm1sMlhjUzBDVFcxUk54ZGRkYnFtYTNYUmZqaG1mcVVJdkRQMTlZNlBGbnFBWXRkUWZmV01sa1FvSklfN29pdzM3eVpQLTBfMllNTkxPOWJrcTZvM09C?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 부스터즈의 스킨케어 브랜드 '기픈'이 무신사 뷰티 플랫폼에서 전체 뷰티 부문과 스킨케어 부문 모두 1위를 기록했다. 이는 한국 온라인 뷰티 시장에서 해당 브랜드의 강력한 성장세를 보여주는 사례로, 소비자들 사이에서 높은 인지도와 구매력을 확보했음을 의미한다.
+
+**English Summary**: Boosters' skincare brand 'Kiefen' achieved the top ranking in both overall beauty and skincare categories on Musinsa Beauty, a major Korean online beauty platform. This marks significant market traction and consumer preference for the brand in the competitive Korean skincare market.
+
+**핵심 키워드**: Boosters, Kiefen (기픈), Musinsa Beauty
+
+### 5. [올겨울 피부 트렌드, '찹쌀떡 피부' 열풍](https://news.google.com/rss/articles/CBMitwJBVV95cUxOSHF0azEzdkM0WEVIcUJtQUpUSjVST0wwWTZxQnNkYzhPSk1CejF1ajdoU3NNNjFvS2hNR2poRWo0ZVFKdkRJMjZsUGFDd0ZRZnJHNmRhUklSRlBZNGVyZEgySzk3NGVoblNES1JUQlUtczR1YUN3S0dmWmpOUlNsSEU3N0c1cXozdGs5c1Q2UHAxV29Kanl6eG8xSnZrM1J5V0Znck1GX0dhNXRpWlBxQ24zcjMyRU85S3FOWHZmVEJMS1ptR1g2ckEyYXE1RFAzclA0ZlpHX3RlRHRHSVE4VTJwOVBWMmNwSUJQb3Vmc3VBUENyZ19ndzZxb0ZBbXgwMHE3dlZKd19maHJ4RUtuOGl6Nm9peFRnUlhHV2NXYUJnSk50djVHdUE1bVpFcjFyaDBUQ0N1QQ?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 보그 코리아에서 소개한 올겨울 피부 미용 트렌드는 '찹쌀떡 피부'로, 촉촉하면서도 말랑한 식감의 피부결을 목표로 한다. 이는 수분감과 탄력성을 동시에 갖춘 건강한 피부 미용법으로 주목받고 있으며, 한국 뷰티 업계의 새로운 스킨케어 트렌드를 반영한다.
+
+**English Summary**: Vogue Korea highlights 'mochi skin' or 'glutinous rice cake skin' as this winter's beauty trend, characterized by soft, plump, and hydrated skin texture. The trend emphasizes both moisture and elasticity for healthy, resilient skin.
+
+**핵심 키워드**: Vogue Korea, 찹쌀떡 피부, 스킨케어 트렌드
+
+### 6. [한국콜마, 선크림·스킨케어 호조로 3분기 실적 급증](https://news.google.com/rss/articles/CBMiowJBVV95cUxOb1oxSXY5RDRfcC1BRzRNRmlGRDNzNkpLcFNYbW9YTE5TdG81dHdHOTN3MFUySHY5WWg1bU5veEN5UWpiM21wLVdSc2s2bzdDYVB5SDJWNGU3ckdEbkFrRDJZajZPZE11S1JWQkFfUmRIZ251ZjFndnhpUWhaNVBZT25PUFJuYlVoUE1waWoxU1BOMTZ5MmRQNU5LSndlVXg0bzAyQmZzMkY2QnVkWTl3U0c3VjJPTVZ1d3lvVnhtaHRBVm5oTkgxcjA5NktBWVQyVEFzcFVYWDc2d2VlRHc3cUNVMEVzWmU1aUFNVU1qQmpqRWVYR3Nzc3k0aUd4aFlTTGdnX19OdU80OVZxY2M1cGxHVTgzbDM2aHhST2xjUDBBczQ?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 한국콜마가 3분기에 선크림과 스킨케어 제품의 판매 호조로 실적이 크게 증가했다. 이는 계절적 수요 증가와 K-뷰티 제품에 대한 지속적인 관심이 반영된 결과다. 회사는 뷰티 및 화장품 제조업체로서 안정적인 성장세를 보이고 있다.
+
+**English Summary**: Korean beauty manufacturer Kolmar Korea reported strong third-quarter earnings driven by robust sales of sunscreen and skincare products. The company's performance reflects continued consumer demand for K-beauty and seasonal skincare needs. This marks sustained growth in the competitive beauty and cosmetics manufacturing sector.
+
+**핵심 키워드**: 한국콜마, 선크림, 스킨케어 제품, 3분기
+
+### 7. [뷰티업계, 입술까지 확대되는 '립 스키니피케이션' 트렌드](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BZVZOODVud3NPVUF1aEZPSnNqWEwzc1ZTdUhZTS1RbE9OSEpxUzBId3hhQzM4SHJNazMtRGtQbHFtVDZNcl9rdzQ4N3dRQXJUS2FsQzU3VWsyRlE5bnZNM29qRGY?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 뷰티업계에서 얼굴 스킨케어를 넘어 입술 관리에 집중하는 '립 스키니피케이션' 트렌드가 확산되고 있다. 이는 피부과학을 기반으로 입술 케어를 체계화하는 뷰티 산업의 새로운 흐름으로, 관련 제품과 서비스가 늘어나고 있다.
+
+**English Summary**: The beauty industry is expanding skincare focus beyond facial skin to lip care through a trend called 'lip skinification.' This represents a new shift in the beauty market where lip care is being systematized based on dermatology, driving growth in related products and services.
+
+**핵심 키워드**: 뷰티업계, 립 스키니피케이션, 입술 케어, 스킨케어 제품
+
+### 8. [스킨수티컬즈, 피티옥스 세럼에 이어 크림 제품 출시](https://news.google.com/rss/articles/CBMia0FVX3lxTE1mSF9QV3F4ZWgzTE9hcjlGUXRQQzBDeVZueExjT2htWldoaVU0WE82bGU4akl0eko3R1l1UnEwWmtFWTMzOTJ3cmdaaDdEQnRucGprVmtvYmgydjgwWDlneGtLUDZwYVRlemlR?oc=5)
+**출처**: Google 뉴스 (스킨케어) · **중요도**: 보통
+
+**한국어 요약**: 스킨수티컬즈(Skinceuticals)가 인기 제품인 피티옥스 세럼에 이어 크림 형태의 신제품을 출시했다. 이는 기존 세럼 제품군을 확장하여 더 다양한 스킨케어 솔루션을 제공하려는 전략으로 보인다. 고기능성 스킨케어 브랜드의 제품 라인 확대 소식이다.
+
+**English Summary**: Skinceuticals has launched a new cream product following the success of its Phloretin CF (Phtiox) serum. This product expansion extends the brand's skincare line to offer more comprehensive treatment options for consumers.
+
+**핵심 키워드**: Skinceuticals, Phloretin CF Serum, Skincare Cream
+
+### 9. [영국 소액 수입품 관세 면제 폐지, 사우디 주사기형 화장품 용기 금지](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrYU1fNjFObHhqRTQ3ODZqcm9TSVd2OVU4cXR2LWswOExjOHZ5WUVmMFFWc2hUQ3o0NXNrOURDWTI3YUNDNHZyc0p6ZC1tN1V3Qi1vSHF1UVJydlhvN1dZ?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 보통
+
+**한국어 요약**: 영국이 소액 수입품에 대한 관세 면제 제도를 폐지하기로 결정했다. 동시에 사우디아라비아는 주사기 형태의 화장품 용기 사용을 금지하는 규제를 시행하고 있다. 이는 화장품 산업의 수입·수출 및 용기 규제에 영향을 미치는 국제 통상 및 규제 정책 변화다.
+
+**English Summary**: The UK is abolishing its tax exemption for low-value imports, which will affect cosmetics and other product imports. Saudi Arabia is simultaneously implementing regulations banning syringe-type cosmetics containers. These regulatory changes are impacting international trade and packaging standards in the beauty industry.
+
+**핵심 키워드**: UK, Saudi Arabia, cosmetics industry, beauty products
+
+### 10. [스킨케어 시장, 성분 중심에서 기능성 중심으로 전환](https://news.google.com/rss/articles/CBMicEFVX3lxTE5UY08zNW93ZHRLdmg0UG9kaEp6ejYxVGNCcHAtd0l1dFdxWXJaVENXalhacUhlZ01GdkNjdVZvb0RaT1VkUjhveV9KUnlCQ2pSdnpHa1k2NExxRVpJd3p4SFB3aEE1UmtYdW9GdVIzOGY?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 보통
+
+**한국어 요약**: 화장품 업계의 스킨케어 제품 경쟁이 단순 성분 비교에서 벗어나 실제 기능성과 효능 중심으로 확대되고 있다. 최기자의 화장품 분석 칼럼을 통해 현재 스킨케어 시장의 트렌드 변화와 소비자들의 선택 기준이 어떻게 변하고 있는지를 살펴본다.
+
+**English Summary**: The skincare market competition is shifting from ingredient-focused comparisons to functionality-driven product differentiation. This trend analysis examines how Korean skincare brands are expanding their competitive strategies beyond ingredient lists to emphasize actual efficacy and functional benefits.
+
+**핵심 키워드**: skincare_industry, Korean_cosmetics_market, product_functionality, consumer_trends
+
+### 11. [의약품·화장품 정보 공식 조회 방법 안내](https://news.google.com/rss/articles/CBMia0FVX3lxTFB2V2hvUFgyaV9QR2VFTWh0V1NYckt2NjlYc25Pa1RCd0NoWW1YTHhaUzB4Rk5sVEdDMmhkdW5jc1hMTk40S2VWOEl6cm80RGxZRHF6dm0zc1hBVkZtWF9Fc2VJSzhsa2ZLMnNn?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 보통
+
+**한국어 요약**: 의약품과 화장품 정보를 제품명으로 공식적으로 조회하는 방법을 설명하는 가이드 문서입니다. 사용자들이 신뢰할 수 있는 공식 채널을 통해 제품 정보를 확인하는 절차를 제시합니다. 투명한 제품 정보 공개의 중요성을 강조합니다.
+
+**English Summary**: This guide explains how to officially search for pharmaceutical and cosmetic product information by product name. It provides instructions for users to verify product details through trusted official channels, emphasizing the importance of transparent product information disclosure.
+
+**핵심 키워드**: 의약품, 화장품, 제품명 조회, 공식 정보
+
+### 12. [한국콜마, 항산화 신소재 'TOT' 개발…항노화 화장품 시장 진출](https://news.google.com/rss/articles/CBMiakFVX3lxTE1qQVM1M09TenhCTnY3YlBiTlNKZTVKOHl0RzZ4b05NVmttRjNBbEMyYzVrWFhEd3d1N0dYOGRuM09NUXFFSkVTalB1OVl0WWNiUXJaLUswQy1NTUkxdlZadi1jR293Qk9Tcmc?oc=5)
+**출처**: Google 뉴스 (화장품 성분) · **중요도**: 보통
+
+**한국어 요약**: 한국콜마가 항산화 효능을 가진 신소재 'TOT'를 신기술로 지정받았다. 이 소재는 항노화 화장품 개발에 활용될 예정이다. 한국콜마는 화장품 원료 개발을 통해 시장 경쟁력을 강화하고 있다.
+
+**English Summary**: Korean cosmetics manufacturer Kolmar Korea has received official designation for a new antioxidant material called 'TOT' as a novel technology. This ingredient will be used in the development of anti-aging skincare products. The company aims to enhance its market competitiveness through innovative cosmetic ingredient development.
+
+**핵심 키워드**: 한국콜마 (Kolmar Korea), TOT (신소재), 항산화, 항노화 화장품
+
+### 13. [피지오겔, 겨울 건조함 대비 홀리데이 에디션 출시](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtTTAzcFRpWlNId19kdDdmUHpyMkZFaFlsNEVQcHFrXzdXUTdGQ0xYSnZZeENsRHp6a0FZcVRraG1PT3FfZkVTa2pNTFZsNTFyVFRucFMtTlZQVm1RVHVz?oc=5)
+**출처**: Google 뉴스 (피부 보습) · **중요도**: 보통
+
+**한국어 요약**: 피지오겔이 겨울철 피부 건조함 문제를 해결하기 위해 홀리데이 에디션 제품을 출시했다. 본 제품은 피부 보습에 특화된 포뮬레이션으로 설계되었으며, 계절 한정판으로 선보이는 만큼 겨울 선물 상품으로도 주목받고 있다.
+
+**English Summary**: Physiogel has launched a holiday edition product line designed to address winter skin dryness and moisture retention. The new seasonal offering targets consumers seeking enhanced skincare solutions during harsh winter months.
+
+**핵심 키워드**: Physiogel, Holiday Edition, Winter Skincare
+
+### 14. [LG생활건강, 피지오겔 홀리데이 한정판 출시](https://news.google.com/rss/articles/CBMiaEFVX3lxTE03c0NiSFZ4RjBCUjl6MVFLR2FNTWk3TVdXbWlnTnY0RnhSVlJydkdfZHhaZnJXa0lKYWkwNTBQNnllRWI1anpDbUg2a0VwNlhJeEVwQXBCaGxpUTV0V21JanlNakQ0SWxH0gFsQVVfeXFMTzk0Unp4XzlQZEFkTUhiY2dnSlkzMkVSWW51a1JVbHd2N05vVU10OXgxZGJfOTJtWHhpSnpKNFZGR2thMHVzVzgtUjEwajk2QVRWM08xQV9wVW4xVU14TW5BWS0xcjlRQWQ0aHBY?oc=5)
+**출처**: Google 뉴스 (피부 보습) · **중요도**: 보통
+
+**한국어 요약**: LG생활건강이 1300만 개 판매된 베스트셀러 보습크림 피지오겔에 겨울 감성을 담은 홀리데이 한정판을 출시했다. 이번 출시는 계절 감성을 반영한 마케팅 전략으로, 기존 제품의 인기도를 바탕으로 한 브랜드 확장 사례다.
+
+**English Summary**: LG Household & Health Care has launched a limited-edition holiday version of its bestselling moisturizer Physiogel, which has sold over 13 million units. The release incorporates winter aesthetics as part of the brand's seasonal marketing strategy.
+
+**핵심 키워드**: LG생활건강, 피지오겔, 보습크림, 홀리데이 한정판
+
+### 15. [피지오겔, 2026 홀리데이 에디션 보습 라인 4종 출시](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSVlB5blV0ZzZBQlplU2ZESnhtUGk3UlB1cTBiVE1kaktkbDdUUHh3VnlrQkQtR0ZXcmxjUlNkd2xXMk85cXdyNWlYMlMxRkN2TFJzTXRJT1QzdGdyUGZoZkFBWjduZw?oc=5)
+**출처**: Google 뉴스 (피부 보습) · **중요도**: 보통
+
+**한국어 요약**: 피지오겔이 대표 보습 라인으로 구성한 '2026 홀리데이 에디션' 4종을 출시했다. 이 제품들은 피지오겔의 주력 보습 제품들을 홀리데이 시즌을 위해 특별히 패키징한 에디션이다. 보습 성분에 중점을 두어 건성 피부와 민감한 피부를 케어하는 데 초점을 맞췄다.
+
+**English Summary**: Physiogel has launched four products in its '2026 Holiday Edition' featuring its signature moisturizing skincare line. The collection is specially packaged for the holiday season and focuses on hydration and care for dry and sensitive skin types.
+
+**핵심 키워드**: 피지오겔 (Physiogel), 2026 홀리데이 에디션
+
+### 16. [스노우톡스로 피부 수분 공급과 탄력 개선](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NUHZPMWlFbXR2c01EclB4R0pzYVlOME9jM3hsY2JjZTkxSjduWkNoeTNVZC1MakNOU00tQmxxTHZBTG52Y0I0NlhZcEo3Z21XRl9panZZTGg4eC1fdHFuWkRB?oc=5)
+**출처**: Google 뉴스 (피부 보습) · **중요도**: 보통
+
+**한국어 요약**: 스노우톡스 제품을 통해 피부 수분 공급과 탄력을 동시에 관리할 수 있다는 내용의 뷰티 제품 소개 기사입니다. 보습 효과와 피부 개선에 대한 상세한 설명을 담고 있으며, K-뷰티 시장의 혁신 제품으로 소개되고 있습니다.
+
+**English Summary**: This article introduces SnowTox, a skincare product designed to enhance skin hydration and elasticity simultaneously. The product represents an innovation in the Korean beauty market, addressing common skin concerns of moisturization and skin firmness.
+
+**핵심 키워드**: SnowTox, Miaju Joong Ang Ilbo
+
+### 17. [써마지 시술 후 한 달 뒤 효과 없다고 느낄 때, 겨울 보습 관리법](https://news.google.com/rss/articles/CBMia0FVX3lxTE5CNHdyaFl4emtUbjFpLVp4YnpqUFp5cHVLQ3hOeHJwb25nMk9oTUJISGpEMHc4ZC1kdkgzYmZvUlFpV09ETDZZV1FPa3RNSktzR3BBU09KTFIwZXhpNjhyam1MSXNDRG9xQkZJ?oc=5)
+**출처**: Google 뉴스 (피부 보습) · **중요도**: 보통
+
+**한국어 요약**: 써마지 시술 직후의 탱탱함은 일시적 효과이며, 실제 효과는 시간이 지나면서 나타난다. 겨울철에는 보습 관리가 써마지 효과를 극대화하는 핵심이다. 피부 보습 루틴을 통해 시술 후 피부 상태를 최적으로 유지하는 것이 중요하다.
+
+**English Summary**: The immediate tightness after Thermage treatment is temporary, with actual results developing over time. Winter skincare focus should prioritize hydration and moisturizing routines to maximize and maintain Thermage treatment effects. Proper skincare maintenance is key to optimizing post-treatment skin condition.
+
+**핵심 키워드**: 써마지 (Thermage), 피부 보습, 겨울 스킨케어 루틴
+
+### 18. [피지오겔, 이이오 작가와 협업해 연말 한정 보습 세트 4종 출시](https://news.google.com/rss/articles/CBMiakFVX3lxTE9iaEQ4dThPUTE3YWJKTWU2aFJvaGZRb1VnLTliRWcxRFVxbkNVQVJPSWV6aWhzWjNwVUFXdHJwcmRFMF9SUGVIbEhvOFdWeDYyazZCUlU4S1NhMW1ONEdZSjhzM2pYNnQ4bVE?oc=5)
+**출처**: Google 뉴스 (피부 보습) · **중요도**: 보통
+
+**한국어 요약**: 스킨케어 브랜드 피지오겔이 유명 작가 이이오와 협업하여 연말 시즌을 위한 한정판 보습 세트 4종을 출시했다. 이번 콜라보레이션은 브랜드와 크리에이터의 특별한 파트너십을 통해 진행되었으며, 보습 제품들로 구성된 세트 상품으로 기획되었다.
+
+**English Summary**: Physiogel has launched a limited-edition holiday moisture care set in collaboration with creator Lee I-o. The collaboration features four different skincare sets designed specifically for the year-end season, combining the brand's moisturizing expertise with creative packaging.
+
+**핵심 키워드**: Physiogel, Lee I-o, Korean skincare
+
+### 19. [시즌 향수 선물 세트 추천](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rRC1UVVRnMGcwaVNPbF8ydnNsRUFUV2hvOVJoMXV0SDNnYXQxMWxmYUZQSjBpX1p3RmVBZGZzWE4tYmJoSEt1WTk4TzlRdmNmWGNiV1lTU0tpVnNZY2I5OG1R?oc=5)
+**출처**: Allure Skincare · **중요도**: 낮음
+
+**한국어 요약**: 뷰티 매거진 Allure에서 선호도 높은 향수 선물 세트들을 소개하는 기사입니다. 계절에 맞는 향수 제품 추천이 주요 내용이며, 선물용 향수 세트 구성과 특징을 다룹니다.
+
+**English Summary**: Allure magazine presents curated perfume gift sets for the season. The article focuses on popular fragrance gift collections suitable for seasonal gifting.
+
+**핵심 키워드**: Allure, perfume gift sets, seasonal fragrances
+
+### 20. [제니퍼 로렌스 헤어케어 라인, 실제 사용 후기](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WUHQzSlp2MEpIdWxOT0dtR1Q4MEZWM19HRGk0NEQ4TUlPT25kMTlSOTRtU2dSOWVaMXAwUjhvMm5uLWNyMlVWdFpLNngxYkJDWDI2VFVSQy1sMzN6M2lONWFMaUlBUnBZQzdpTENyWjk1VFpQZDdvYzZfcWh1VGc?oc=5)
+**출처**: Allure Skincare · **중요도**: 보통
+
+**한국어 요약**: 할리우드 배우 제니퍼 로렌스가 출시한 새로운 헤어케어 제품이 온라인에서 큰 화제를 모으고 있다. 뷰티 미디어 Allure가 실제로 제품을 사용해본 결과와 평가를 담은 기사로, 소비자들의 관심과 실제 제품 성능 간의 차이를 조명한다.
+
+**English Summary**: Jennifer Lawrence's new hair-care line has generated significant online buzz. Allure magazine provides a hands-on review of the product, evaluating its actual performance and addressing consumer expectations versus reality.
+
+**핵심 키워드**: Jennifer Lawrence, Allure, hair-care line
